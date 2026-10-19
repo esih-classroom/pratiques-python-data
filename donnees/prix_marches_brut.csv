@@ -1,0 +1,2345 @@
+mois,departement,marche,produit,unite,prix_htg
+2024-01,Artibonite,Gonaïves,Riz importé,marmite,480.0
+2024-01,Artibonite,Gonaïves,Riz local,marmite,611.0
+2024-01,Artibonite,Gonaïves,Maïs moulu,marmite,308.0
+2024-01,Artibonite,Gonaïves,Farine de blé,marmite,365.0
+2024-01,Artibonite,Gonaïves,Haricot noir,marmite,700.0
+2024-01,Artibonite,Gonaïves,Huile végétale,gallon,1389.0
+2024-01,Artibonite,Gonaïves,Sucre,marmite,427.0
+2024-01,Artibonite,Saint-Marc,Riz importé,marmite,498.0
+2024-01,Artibonite,Saint-Marc,Riz local,marmite,638.0
+2024-01,Artibonite,Saint-Marc,Maïs moulu,marmite,301.0
+2024-01,Artibonite,Saint-Marc,Farine de blé,marmite,402.0
+2024-01,Artibonite,Saint-Marc,Haricot noir,marmite,681.0
+2024-01,Artibonite,Saint-Marc,Huile végétale,gallon,1366.0
+2024-01,Artibonite,Saint-Marc,Sucre,marmite,413.0
+2024-01,Artibonite,Saint-Marc,Spaghetti,paquet,74.0
+2024-01,Centre,Hinche,Riz importé,marmite,558.0
+2024-01,Centre,Hinche,Riz local,marmite,"700,0"
+2024-01,Centre,Hinche,Maïs moulu,marmite,343 HTG
+2024-01,Centre,Hinche,Farine de blé,marmite,415.0
+2024-01,Centre,Hinche,Haricot noir,marmite,731.0
+2024-01,Centre,Hinche,Huile végétale,gallon,1477.0
+2024-01,Centre,Hinche,Sucre,marmite,446.0
+2024-01,Centre,Hinche,Spaghetti,paquet,74.0
+2024-01,Grand'Anse,Jérémie,Riz importé,marmite,607.0
+2024-01,Grand'Anse,Jérémie,Riz local,marmite,678.0
+2024-01,Grand'Anse,Jérémie,Maïs moulu,marmite,371.0
+2024-01,Grand'Anse,Jérémie,Farine de blé,marmite,450.0
+2024-01,Grand'Anse,Jérémie,Haricot noir,marmite,817.0
+2024-01,Grand'Anse,Jérémie,Huile végétale,gallon,1532.0
+2024-01,Grand'Anse,Jérémie,Sucre,marmite,520.0
+2024-01,Grand'Anse,Jérémie,Spaghetti,paquet,81.0
+2024-01,Nippes,Miragoâne,Riz importé,marmite,516.0
+2024-01,Nippes,Miragoâne,Maïs moulu,marmite,345.0
+2024-01,Nippes,Miragoâne,Farine de blé,marmite,391.0
+2024-01,Nippes,Miragoâne,Haricot noir,marmite,729.0
+2024-01,Nippes,Miragoâne,Huile végétale,gallon,1417.0
+2024-01,Nippes,Miragoâne,Sucre,marmite,473.0
+2024-01,Nippes,Miragoâne,Spaghetti,paquet,82.0
+2024-01,Nord,Cap-Haïtien,Riz importé,marmite,532.0
+2024-01,Nord,Cap-Haïtien,Riz local,marmite,662.0
+2024-01,Nord,Cap-Haïtien,Maïs moulu,marmite,318.0
+2024-01,Nord,Cap-Haïtien,farine de blé ,marmite,417.0
+2024-01,Nord,Cap-Haïtien,Haricot noir,marmite,
+2024-01,Nord,Cap-Haïtien,Huile végétale,gallon,1419.0
+2024-01,Nord,Cap-Haïtien,Sucre,marmite,465.0
+2024-01,Nord,Cap-Haïtien,Spaghetti,paquet,77.0
+2024-01,Nord Est,Fort-Liberté,Riz importé,marmite,561.0
+2024-01,Nord-Est,Fort-Liberté,Riz local,marmite,638.0
+2024-01,Nord-Est,Fort-Liberté,Maïs moulu,marmite,338.0
+2024-01,Nord-Est,Fort-Liberté,Farine de blé,marmite,426.0
+2024-01,Nord-Est,Fort-Liberté,Haricot noir,marmite,788.0
+2024-01,Nord-Est,Fort-Liberté,Huile végétale,gallon,1420.0
+2024-01,Nord-Est,Fort-Liberté,Sucre,marmite,460.0
+2024-01,Nord-Est,Fort-Liberté,Spaghetti,paquet,76.0
+2024-01,Nord-Ouest,Port-de-Paix,Riz importé,marmite,547.0
+2024-01,Nord-Ouest,Port-de-Paix,Riz local,marmite,686.0
+2024-01,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,366.0
+2024-01,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,427.0
+2024-01,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,779.0
+2024-01,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,1486.0
+2024-01,Nord-Ouest,Port-de-Paix,Sucre,marmite,472.0
+2024-01,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,76.0
+2024-01,Nord-Ouest,Port-de-Paix,Riz importé,marmite,547.0
+2024-01,Ouest,Croix-des-Bossales,Riz importé,marmite,488.0
+2024-01,Ouest,Croix-des-Bossales,Riz local,marmite,623.0
+2024-01,Ouest,Croix-des-Bossales,Maïs moulu,marmite,297.0
+2024-01,Ouest,Croix-des-Bossales,Farine de blé,marmite,415.0
+2024-01,Ouest,Croix-des-Bossales,Haricot noir,marmite,750.0
+2024-01,Ouest,Croix-des-Bossales,Huile végétale,gallon,1385.0
+2024-01,Ouest,Croix-des-Bossales,Sucre,marmite,439.0
+2024-01,Ouest,Croix-des-Bossales,Spaghetti,paquet,73.0
+2024-01,Ouest,Pétion-Ville,Riz importé,marmite,497.0
+2024-01,Ouest,Pétion-Ville,Riz local,marmite,613.0
+2024-01,Ouest,Pétion-Ville,Maïs moulu,marmite,327.0
+2024-01,Ouest,Pétion-Ville,Farine de blé,marmite,403.0
+2024-01,Ouest,Pétion-Ville,Haricot noir,marmite,732.0
+2024-01,Ouest,Pétion-Ville,Huile végétale,gallon,1396.0
+2024-01,Ouest,Pétion-Ville,Sucre,marmite,447.0
+2024-01,Ouest,Pétion-Ville,Spaghetti,paquet,71.0
+2024-01,Sud,Les Cayes,Riz importé,marmite,526.0
+2024-01,Sud,Les Cayes,Riz local,marmite,628.0
+2024-01,Sud,Les Cayes,Maïs moulu,marmite,322.0
+2024-01,Sud,Les Cayes,Farine de blé,marmite,432.0
+2024-01,Sud,Les Cayes,Haricot noir,marmite,779.0
+2024-01,Sud,Les Cayes,Huile végétale,gallon,1492.0
+2024-01,Sud,Les Cayes,Sucre,marmite,497.0
+2024-01,Sud,Les Cayes,Spaghetti,paquet,73.0
+2024-01,Sud-Est,Jacmel,Riz importé,marmite,510.0
+2024-01,Sud-Est,Jacmel,Riz local,marmite,678.0
+2024-01,Sud-Est,Jacmel,Maïs moulu,marmite,328.0
+2024-01,Sud-Est,Jacmel,Farine de blé,marmite,419.0
+2024-01,Sud-Est,Jacmel,haricot noir ,marmite,738.0
+2024-01,Sud-Est,Jacmel,Huile végétale,gallon,1478.0
+2024-01,Sud-Est,Jacmel,Sucre,marmite,438.0
+2024-01,Sud-Est,Jacmel,Spaghetti,paquet,74.0
+2024-01,artibonite,Gonaïves,Spaghetti,paquet,70.0
+2024-01,nippes,Miragoâne,Riz local,marmite,670.0
+2024-02,Artibonite,Gonaïves,Riz importé,marmite,507.0
+2024-02,Artibonite,Gonaïves,Riz local,marmite,608.0
+2024-02,Artibonite,Gonaïves,Maïs moulu,marmite,320.0
+2024-02,Artibonite,Gonaïves,Farine de blé,marmite,422.0
+2024-02,Artibonite,Gonaïves,Haricot noir,marmite,710.0
+2024-02,Artibonite,Gonaïves,Huile végétale,gallon,1446.0
+2024-02,Artibonite,Gonaïves,Sucre,marmite,462.0
+2024-02,Artibonite,Gonaïves,Spaghetti,paquet,74.0
+2024-02,Artibonite,Gonaïves,Maïs moulu,marmite,320.0
+2024-02,Artibonite,Saint-Marc,Riz importé,marmite,525.0
+2024-02,Artibonite,Saint-Marc,Riz local,marmite,612.0
+2024-02,Artibonite,Saint-Marc,Maïs moulu,marmite,313.0
+2024-02,Artibonite,Saint-Marc,Farine de blé,marmite,413.0
+2024-02,Artibonite,Saint-Marc,Haricot noir,marmite,757.0
+2024-02,Artibonite,Saint-Marc,Huile végétale,gallon,1477.0
+2024-02,Artibonite,Saint-Marc,Sucre,marmite,450.0
+2024-02,Artibonite,Saint-Marc,Spaghetti,paquet,77.0
+2024-02,Centre,Hinche,Riz importé,marmite,514.0
+2024-02,Centre,Hinche,Riz local,marmite,689.0
+2024-02,Centre,Hinche,Maïs moulu,marmite,355.0
+2024-02,Centre,Hinche,Haricot noir,marmite,776.0
+2024-02,Centre,Hinche,Huile végétale,gallon,1491.0
+2024-02,Centre,Hinche,Sucre,marmite,452.0
+2024-02,Centre,Hinche,Spaghetti,paquet,76.0
+2024-02,Grand'Anse,Jérémie,Riz importé,marmite,565.0
+2024-02,Grand'Anse,Jérémie,Riz local,marmite,753.0
+2024-02,Grand'Anse,Jérémie,Maïs moulu,marmite,375.0
+2024-02,Grand'Anse,Jérémie,Farine de blé,marmite,469.0
+2024-02,Grand'Anse,Jérémie,Haricot noir,marmite,832.0
+2024-02,Grand'Anse,Jérémie,Huile végétale,gallon,1701.0
+2024-02,Grand'Anse,Jérémie,Sucre,marmite,500.0
+2024-02,Grand'Anse,Jérémie,Spaghetti,paquet,79.0
+2024-02,Nippes,Miragoâne,Riz importé,marmite,567.0
+2024-02,Nippes,Miragoâne,Maïs moulu,marmite,360.0
+2024-02,Nippes,Miragoâne,Farine de blé,marmite,432.0
+2024-02,Nippes,Miragoâne,Haricot noir,marmite,701.0
+2024-02,Nippes,Miragoâne,Huile végétale,gallon,1569.0
+2024-02,Nippes,Miragoâne,Sucre,marmite,490.0
+2024-02,Nippes,Miragoâne,Spaghetti,paquet,79.0
+2024-02,Nord,Cap-Haïtien,Riz importé,marmite,531.0
+2024-02,Nord,Cap-Haïtien,Riz local,marmite,636.0
+2024-02,Nord,Cap-Haïtien,Maïs moulu,marmite,316.0
+2024-02,Nord,Cap-Haïtien,Farine de blé,marmite,407.0
+2024-02,Nord,Cap-Haïtien,Haricot noir,marmite,806.0
+2024-02,Nord,Cap-Haïtien,Huile végétale,gallon,1419.0
+2024-02,Nord,Cap-Haïtien,Sucre,marmite,467.0
+2024-02,Nord,Cap-Haïtien,Spaghetti,paquet,83.0
+2024-02,Nord,Cap-Haïtien,Sucre,marmite,467.0
+2024-02,Nord-Est,Fort-Liberté,Riz importé,marmite,580.0
+2024-02,Nord-Est,Fort-Liberté,Riz local,marmite,669.0
+2024-02,Nord-Est,Fort-Liberté,Maïs moulu,marmite,351.0
+2024-02,Nord-Est,Fort-Liberté,Farine de blé,marmite,465.0
+2024-02,Nord-Est,Fort-Liberté,Haricot noir,marmite,839.0
+2024-02,Nord-Est,Fort-Liberté,Huile végétale,gallon,1573.0
+2024-02,Nord-Est,Fort-Liberté,Sucre,marmite,507.0
+2024-02,Nord-Est,Fort-Liberté,Spaghetti,paquet,78.0
+2024-02,Nord-Est,Fort-Liberté,Farine de blé,marmite,465.0
+2024-02,Nord-Ouest,Port-de-Paix,Riz importé,marmite,571.0
+2024-02,Nord-Ouest,Port-de-Paix,Riz local,marmite,
+2024-02,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,374.0
+2024-02,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,429.0
+2024-02,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,824.0
+2024-02,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,1472.0
+2024-02,Nord-Ouest,Port-de-Paix,Sucre,marmite,516.0
+2024-02,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,85.0
+2024-02,Ouest,Croix-des-Bossales,Riz importé,marmite,514.0
+2024-02,Ouest,Croix-des-Bossales,Riz local,marmite,647.0
+2024-02,Ouest,Croix-des-Bossales,Maïs moulu,marmite,318.0
+2024-02,Ouest,Croix-des-Bossales,Farine de blé,marmite,396.0
+2024-02,Ouest,Croix-des-Bossales,Haricot noir,marmite,709.0
+2024-02,Ouest,Croix-des-Bossales,Huile végétale,gallon,1451.0
+2024-02,Ouest,Croix-des-Bossales,Sucre,marmite,476.0
+2024-02,Ouest,Croix-des-Bossales,Spaghetti,paquet,74.0
+2024-02,Ouest,Pétion-Ville,Riz importé,marmite,546.0
+2024-02,Ouest,Pétion-Ville,Riz local,marmite,645.0
+2024-02,Ouest,Pétion-Ville,Maïs moulu,marmite,330.0
+2024-02,Ouest,Pétion-Ville,Farine de blé,marmite,418.0
+2024-02,Ouest,Pétion-Ville,Haricot noir,marmite,774.0
+2024-02,Ouest,Pétion-Ville,Huile végétale,gallon,1511.0
+2024-02,Ouest,Pétion-Ville,Sucre,marmite,448.0
+2024-02,Ouest,Pétion-Ville,Spaghetti,paquet,69.0
+2024-02,Sud,Les Cayes,Riz importé,marmite,558.0
+2024-02,Sud,Les Cayes,Riz local,marmite,708.0
+2024-02,Sud,Les Cayes,Maïs moulu,marmite,"332,0"
+2024-02,Sud,Les Cayes,Farine de blé,marmite,390.0
+2024-02,Sud,Les Cayes,Huile végétale,gallon,1435.0
+2024-02,Sud,Les Cayes,Sucre,marmite,481.0
+2024-02,Sud,Les Cayes,Spaghetti,paquet,
+2024-02,Sud Est,Jacmel,Riz local,marmite,742.0
+2024-02,Sud-Est,Jacmel,Riz importé,marmite,559 HTG
+2024-02,Sud-Est,Jacmel,Maïs moulu,marmite,358.0
+2024-02,Sud-Est,Jacmel,Farine de blé,marmite,417.0
+2024-02,Sud-Est,Jacmel,Haricot noir,marmite,874.0
+2024-02,Sud-Est,Jacmel,Huile végétale,gallon,1476.0
+2024-02,Sud-Est,Jacmel,Sucre,marmite,497.0
+2024-02,Sud-Est,Jacmel,Spaghetti,paquet,81 HTG
+2024-02,centre,Hinche,Farine de blé,marmite,427.0
+2024-02,nippes,Miragoâne,Riz local,marmite,706.0
+2024-02,sud,Les Cayes,Haricot noir,marmite,834.0
+2024-03,Artibonite,Gonaïves,Riz importé,marmite,539.0
+2024-03,Artibonite,Gonaïves,Riz local,marmite,651.0
+2024-03,Artibonite,Gonaïves,Maïs moulu,marmite,329.0
+2024-03,Artibonite,Gonaïves,Farine de blé,marmite,421.0
+2024-03,Artibonite,Gonaïves,Haricot noir,marmite,793.0
+2024-03,Artibonite,Gonaïves,Huile végétale,gallon,1414.0
+2024-03,Artibonite,Gonaïves,Sucre,marmite,467.0
+2024-03,Artibonite,Gonaïves,Spaghetti,paquet,76.0
+2024-03,Artibonite,Saint-Marc,Riz importé,marmite,515.0
+2024-03,Artibonite,Saint-Marc,Riz local,marmite,
+2024-03,Artibonite,Saint-Marc,Maïs moulu,marmite,316.0
+2024-03,Artibonite,Saint-Marc,Haricot noir,marmite,729.0
+2024-03,Artibonite,Saint-Marc,Huile végétale,gallon,1437.0
+2024-03,Artibonite,Saint-Marc,Sucre,marmite,457.0
+2024-03,Artibonite,Saint-Marc,Spaghetti,paquet,75.0
+2024-03,Artibonite ,Saint-Marc,Farine de blé,marmite,399.0
+2024-03,Centre,Hinche,Riz importé,marmite,603.0
+2024-03,Centre,Hinche,Riz local,marmite,705.0
+2024-03,Centre,Hinche,Maïs moulu,marmite,360.0
+2024-03,Centre,Hinche,Farine de blé,marmite,420.0
+2024-03,Centre,Hinche,Haricot noir,marmite,778.0
+2024-03,Centre,Hinche,Huile végétale,gallon,1583.0
+2024-03,Centre,Hinche,Sucre,marmite,489.0
+2024-03,Centre,Hinche,Spaghetti,paquet,76.0
+2024-03,Grand'Anse,Jérémie,Riz importé,marmite,610.0
+2024-03,Grand'Anse,Jérémie,Riz local,marmite,731.0
+2024-03,Grand'Anse,Jérémie,Maïs moulu,marmite,358.0
+2024-03,Grand'Anse,Jérémie,Farine de blé,marmite,458.0
+2024-03,Grand'Anse,Jérémie,Haricot noir,marmite,894.0
+2024-03,Grand'Anse,Jérémie,Huile végétale,gallon,1698.0
+2024-03,Grand'Anse,Jérémie,Sucre,marmite,551.0
+2024-03,Grand'Anse,Jérémie,Spaghetti,paquet,92.0
+2024-03,Nippes,Miragoâne,Riz local,marmite,709.0
+2024-03,Nippes,Miragoâne,Maïs moulu,marmite,369.0
+2024-03,Nippes,Miragoâne,Farine de blé,marmite,"432,0"
+2024-03,Nippes,Miragoâne,Haricot noir,marmite,911.0
+2024-03,Nippes,Miragoâne,Huile végétale,gallon,1660.0
+2024-03,Nippes,Miragoâne,Sucre,marmite,512.0
+2024-03,Nippes,Miragoâne,Spaghetti,paquet,83.0
+2024-03,Nord,Cap-Haïtien,Riz importé,marmite,
+2024-03,Nord,Cap-Haïtien,Riz local,marmite,684.0
+2024-03,Nord,Cap-Haïtien,Maïs moulu,marmite,346.0
+2024-03,Nord,Cap-Haïtien,Farine de blé,marmite,430.0
+2024-03,Nord,Cap-Haïtien,Haricot noir,marmite,785.0
+2024-03,Nord,Cap-Haïtien,Huile végétale,gallon,1549.0
+2024-03,Nord,Cap-Haïtien,Sucre,marmite,491.0
+2024-03,Nord,Cap-Haïtien,Spaghetti,paquet,85.0
+2024-03,Nord Est,Fort-Liberté,Spaghetti,paquet,86.0
+2024-03,Nord-Est,Fort-Liberté,Riz importé,marmite,569.0
+2024-03,Nord-Est,Fort-Liberté,Riz local,marmite,"720,0"
+2024-03,Nord-Est,Fort-Liberté,Maïs moulu,marmite,364.0
+2024-03,Nord-Est,Fort-Liberté,Farine de blé,marmite,446.0
+2024-03,Nord-Est,Fort-Liberté,Haricot noir,marmite,834.0
+2024-03,Nord-Est,Fort-Liberté,Huile végétale,gallon,1659.0
+2024-03,Nord-Est,Fort-Liberté,Sucre,marmite,491.0
+2024-03,Nord-Ouest,Port-de-Paix,Riz importé,marmite,595.0
+2024-03,Nord-Ouest,Port-de-Paix,Riz local,marmite,745.0
+2024-03,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,392.0
+2024-03,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,469.0
+2024-03,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,865.0
+2024-03,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,16660.0
+2024-03,Nord-Ouest,Port-de-Paix,Sucre,marmite,532.0
+2024-03,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,83.0
+2024-03,OUEST,Croix-des-Bossales,Huile végétale,gallon,1534.0
+2024-03,Ouest,Croix-des-Bossales,Riz importé,marmite,558.0
+2024-03,Ouest,Croix-des-Bossales,Riz local,marmite,675.0
+2024-03,Ouest,Croix-des-Bossales,Maïs moulu,marmite,347.0
+2024-03,Ouest,Croix-des-Bossales,Farine de blé,marmite,406.0
+2024-03,Ouest,Croix-des-Bossales,Haricot noir,marmite,753.0
+2024-03,Ouest,Croix-des-Bossales,Sucre,marmite,482.0
+2024-03,Ouest,Croix-des-Bossales,Spaghetti,paquet,79.0
+2024-03,Ouest,Pétion-Ville,Riz importé,marmite,546.0
+2024-03,Ouest,Pétion-Ville,Riz local,marmite,678.0
+2024-03,Ouest,Pétion-Ville,Maïs moulu,marmite,345.0
+2024-03,Ouest,Pétion-Ville,Farine de blé,marmite,"431,0"
+2024-03,Ouest,Pétion-Ville,Haricot noir,marmite,801.0
+2024-03,Ouest,Pétion-Ville,Huile végétale,gallon,1564.0
+2024-03,Ouest,Pétion-Ville,Sucre,marmite,472.0
+2024-03,Ouest,Pétion-Ville,Spaghetti,paquet,80.0
+2024-03,Sud,Les Cayes,Riz importé,marmite,595.0
+2024-03,Sud,Les Cayes,Riz local,marmite,731.0
+2024-03,Sud,Les Cayes,Maïs moulu,marmite,385 HTG
+2024-03,Sud,Les Cayes,Farine de blé,marmite,426.0
+2024-03,Sud,Les Cayes,Haricot noir,marmite,845.0
+2024-03,Sud,Les Cayes,Huile végétale,gallon,1617.0
+2024-03,Sud,Les Cayes,Sucre,marmite,508.0
+2024-03,Sud,Les Cayes,Spaghetti,paquet,88.0
+2024-03,Sud-Est,Jacmel,Riz importé,marmite,587.0
+2024-03,Sud-Est,Jacmel,Riz local,marmite,756.0
+2024-03,Sud-Est,Jacmel,Maïs moulu,marmite,"372,0"
+2024-03,Sud-Est,Jacmel,Farine de blé,marmite,427.0
+2024-03,Sud-Est,Jacmel,Haricot noir,marmite,836.0
+2024-03,Sud-Est,Jacmel,Huile végétale,gallon,1492.0
+2024-03,Sud-Est,Jacmel,Sucre,marmite,472.0
+2024-03,Sud-Est,Jacmel,Spaghetti,paquet,84.0
+2024-03,nippes,Miragoâne,Riz importé,marmite,605.0
+2024-04,Artibonite,Gonaïves,riz importé ,marmite,550.0
+2024-04,Artibonite,Gonaïves,Riz local,marmite,716.0
+2024-04,Artibonite,Gonaïves,Maïs moulu,marmite,347.0
+2024-04,Artibonite,Gonaïves,Farine de blé,marmite,406.0
+2024-04,Artibonite,Gonaïves,Haricot noir,marmite,784.0
+2024-04,Artibonite,Gonaïves,Huile végétale,gallon,1475.0
+2024-04,Artibonite,Gonaïves,Sucre,marmite,481.0
+2024-04,Artibonite,Gonaïves,Spaghetti,paquet,81.0
+2024-04,Artibonite,Saint-Marc,Riz importé,marmite,531.0
+2024-04,Artibonite,Saint-Marc,Riz local,marmite,674.0
+2024-04,Artibonite,Saint-Marc,Maïs moulu,marmite,351.0
+2024-04,Artibonite,Saint-Marc,Farine de blé,marmite,422.0
+2024-04,Artibonite,Saint-Marc,Haricot noir,marmite,777.0
+2024-04,Artibonite,Saint-Marc,Huile végétale,gallon,1536.0
+2024-04,Artibonite,Saint-Marc,Sucre,marmite,501.0
+2024-04,Artibonite,Saint-Marc,Spaghetti,paquet,78.0
+2024-04,Centre,Hinche,Riz importé,marmite,591.0
+2024-04,Centre,Hinche,Riz local,marmite,697.0
+2024-04,Centre,Hinche,Maïs moulu,marmite,358.0
+2024-04,Centre,Hinche,Farine de blé,marmite,409.0
+2024-04,Centre,Hinche,Haricot noir,marmite,832.0
+2024-04,Centre,Hinche,Huile végétale,gallon,1628.0
+2024-04,Centre,Hinche,sucre ,marmite,519.0
+2024-04,Centre,Hinche,Spaghetti,paquet,85.0
+2024-04,Grand Anse,Jérémie,Maïs moulu,marmite,392.0
+2024-04,Grand'Anse,Jérémie,Riz importé,marmite,679.0
+2024-04,Grand'Anse,Jérémie,Riz local,marmite,765.0
+2024-04,Grand'Anse,Jérémie,Farine de blé,marmite,
+2024-04,Grand'Anse,Jérémie,Huile végétale,gallon,1731.0
+2024-04,Grand'Anse,Jérémie,Sucre,marmite,549.0
+2024-04,Grand'Anse,Jérémie,Spaghetti,paquet,93.0
+2024-04,Grande-Anse,Jérémie,Haricot noir,marmite,960.0
+2024-04,Nippes,Miragoâne,Riz importé,marmite,595.0
+2024-04,Nippes,Miragoâne,Riz local,marmite,761.0
+2024-04,Nippes,Miragoâne,Maïs moulu,marmite,387 HTG
+2024-04,Nippes,Miragoâne,Farine de blé,marmite,488.0
+2024-04,Nippes,Miragoâne,Haricot noir,marmite,920.0
+2024-04,Nippes,Miragoâne,Huile végétale,gallon,1614.0
+2024-04,Nippes,Miragoâne,Sucre,marmite,489.0
+2024-04,Nippes,Miragoâne,Spaghetti,paquet,86.0
+2024-04,Nord,Cap-Haïtien,Riz importé,marmite,568.0
+2024-04,Nord,Cap-Haïtien,Riz local,marmite,714.0
+2024-04,Nord,Cap-Haïtien,Maïs moulu,marmite,374.0
+2024-04,Nord,Cap-Haïtien,Farine de blé,marmite,451.0
+2024-04,Nord,Cap-Haïtien,Haricot noir,marmite,
+2024-04,Nord,Cap-Haïtien,Huile végétale,gallon,1613.0
+2024-04,Nord,Cap-Haïtien,Sucre,marmite,496.0
+2024-04,Nord,Cap-Haïtien,Spaghetti,paquet,84.0
+2024-04,Nord Ouest,Port-de-Paix,Maïs moulu,marmite,407.0
+2024-04,Nord-Est,Fort-Liberté,Riz importé,marmite,570.0
+2024-04,Nord-Est,Fort-Liberté,Riz local,marmite,719.0
+2024-04,Nord-Est,Fort-Liberté,Maïs moulu,marmite,370.0
+2024-04,Nord-Est,Fort-Liberté,Farine de blé,marmite,466.0
+2024-04,Nord-Est,Fort-Liberté,Haricot noir,marmite,873.0
+2024-04,Nord-Est,Fort-Liberté,Huile végétale,gallon,1782.0
+2024-04,Nord-Est,Fort-Liberté,Sucre,marmite,548.0
+2024-04,Nord-Est,Fort-Liberté,Spaghetti,paquet,87.0
+2024-04,Nord-Ouest,Port-de-Paix,Riz importé,marmite,616.0
+2024-04,Nord-Ouest,Port-de-Paix,Riz local,marmite,760.0
+2024-04,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,489.0
+2024-04,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,837.0
+2024-04,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,1799.0
+2024-04,Nord-Ouest,Port-de-Paix,Sucre,marmite,530.0
+2024-04,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,94.0
+2024-04,OUEST,Croix-des-Bossales,Sucre,marmite,517.0
+2024-04,Ouest,Croix-des-Bossales,Riz importé,marmite,575.0
+2024-04,Ouest,Croix-des-Bossales,Riz local,marmite,681.0
+2024-04,Ouest,Croix-des-Bossales,Maïs moulu,marmite,363.0
+2024-04,Ouest,Croix-des-Bossales,Farine de blé,marmite,432.0
+2024-04,Ouest,Croix-des-Bossales,Haricot noir,marmite,842.0
+2024-04,Ouest,Croix-des-Bossales,Huile végétale,gallon,1541.0
+2024-04,Ouest,Croix-des-Bossales,Spaghetti,paquet,81.0
+2024-04,Ouest,Pétion-Ville,Riz importé,marmite,572.0
+2024-04,Ouest,Pétion-Ville,Riz local,marmite,769.0
+2024-04,Ouest,Pétion-Ville,Maïs moulu,marmite,369.0
+2024-04,Ouest,Pétion-Ville,Farine de blé,marmite,451.0
+2024-04,Ouest,Pétion-Ville,Haricot noir,marmite,829.0
+2024-04,Ouest,Pétion-Ville,Huile végétale,gallon,1521.0
+2024-04,Ouest,Pétion-Ville,Sucre,marmite,520.0
+2024-04,Ouest,Pétion-Ville,Spaghetti,paquet,86.0
+2024-04,Ouest,Pétion-Ville,Sucre,marmite,520.0
+2024-04,Sud,Les Cayes,Riz local,marmite,765.0
+2024-04,Sud,Les Cayes,Maïs moulu,marmite,367.0
+2024-04,Sud,Les Cayes,Farine de blé,marmite,472.0
+2024-04,Sud,Les Cayes,Haricot noir,marmite,872.0
+2024-04,Sud,Les Cayes,Huile végétale,gallon,1578.0
+2024-04,Sud,Les Cayes,Sucre,marmite,498.0
+2024-04,Sud,Les Cayes,Spaghetti,paquet,840.0
+2024-04,Sud-Est,Jacmel,Riz importé,marmite,630.0
+2024-04,Sud-Est,Jacmel,Riz local,marmite,
+2024-04,Sud-Est,Jacmel,Maïs moulu,marmite,389.0
+2024-04,Sud-Est,Jacmel,Farine de blé,marmite,499.0
+2024-04,Sud-Est,Jacmel,Haricot noir,marmite,835.0
+2024-04,Sud-Est,Jacmel,Huile végétale,gallon,1672 HTG
+2024-04,Sud-Est,Jacmel,Sucre,marmite,530.0
+2024-04,Sud-Est,Jacmel,Spaghetti,paquet,83.0
+2024-04,sud,Les Cayes,Riz importé,marmite,577.0
+2024-05,Artibonite,Gonaïves,Riz local,marmite,673.0
+2024-05,Artibonite,Gonaïves,Maïs moulu,marmite,363.0
+2024-05,Artibonite,Gonaïves,Haricot noir,marmite,880.0
+2024-05,Artibonite,Gonaïves,Huile végétale,gallon,
+2024-05,Artibonite,Gonaïves,Sucre,marmite,
+2024-05,Artibonite,Gonaïves,Spaghetti,paquet,87.0
+2024-05,Artibonite,Saint-Marc,Riz importé,marmite,554.0
+2024-05,Artibonite,Saint-Marc,Riz local,marmite,677.0
+2024-05,Artibonite,Saint-Marc,Maïs moulu,marmite,355.0
+2024-05,Artibonite,Saint-Marc,Farine de blé,marmite,447.0
+2024-05,Artibonite,Saint-Marc,Haricot noir,marmite,891.0
+2024-05,Artibonite,Saint-Marc,Huile végétale,gallon,1568.0
+2024-05,Artibonite,Saint-Marc,Sucre,marmite,527.0
+2024-05,Artibonite,Saint-Marc,Spaghetti,paquet,81.0
+2024-05,Artibonite ,Gonaïves,Farine de blé,marmite,459.0
+2024-05,Centre,Hinche,Riz importé,marmite,580.0
+2024-05,Centre,Hinche,Riz local,marmite,747.0
+2024-05,Centre,Hinche,Farine de blé,marmite,471.0
+2024-05,Centre,Hinche,Haricot noir,marmite,879.0
+2024-05,Centre,Hinche,Huile végétale,gallon,1570.0
+2024-05,Centre,Hinche,Sucre,marmite,514.0
+2024-05,Centre,Hinche,Spaghetti,paquet,81.0
+2024-05,Centre,Hinche,Spaghetti,paquet,81.0
+2024-05,Grand'Anse,Jérémie,Riz importé,marmite,642.0
+2024-05,Grand'Anse,Jérémie,Riz local,marmite,804.0
+2024-05,Grand'Anse,Jérémie,Maïs moulu,marmite,415.0
+2024-05,Grand'Anse,Jérémie,Farine de blé,marmite,508.0
+2024-05,Grand'Anse,Jérémie,Haricot noir,marmite,1026.0
+2024-05,Grand'Anse,Jérémie,Huile végétale,gallon,1859.0
+2024-05,Grand'Anse,Jérémie,Sucre,marmite,561.0
+2024-05,Grand'Anse,Jérémie,Spaghetti,paquet,89.0
+2024-05,Nippes,Miragoâne,Riz importé,marmite,625.0
+2024-05,Nippes,Miragoâne,Riz local,marmite,794.0
+2024-05,Nippes,Miragoâne,Maïs moulu,marmite,412.0
+2024-05,Nippes,Miragoâne,Farine de blé,marmite,479.0
+2024-05,Nippes,Miragoâne,Haricot noir,marmite,923.0
+2024-05,Nippes,Miragoâne,Huile végétale,gallon,1677.0
+2024-05,Nippes,Miragoâne,Sucre,marmite,530.0
+2024-05,Nippes,Miragoâne,Spaghetti,paquet,92.0
+2024-05,Nord,Cap-Haïtien,Riz importé,marmite,615.0
+2024-05,Nord,Cap-Haïtien,Riz local,marmite,762.0
+2024-05,Nord,Cap-Haïtien,Maïs moulu,marmite,391.0
+2024-05,Nord,Cap-Haïtien,Farine de blé,marmite,489.0
+2024-05,Nord,Cap-Haïtien,Haricot noir,marmite,862.0
+2024-05,Nord,Cap-Haïtien,Huile végétale,gallon,
+2024-05,Nord,Cap-Haïtien,Sucre,marmite,553.0
+2024-05,Nord,Cap-Haïtien,Spaghetti,paquet,85.0
+2024-05,Nord Est,Fort-Liberté,Maïs moulu,marmite,397.0
+2024-05,Nord-Est,Fort-Liberté,Riz importé,marmite,618.0
+2024-05,Nord-Est,Fort-Liberté,riz local ,marmite,805.0
+2024-05,Nord-Est,Fort-Liberté,Farine de blé,marmite,451.0
+2024-05,Nord-Est,Fort-Liberté,Haricot noir,marmite,865.0
+2024-05,Nord-Est,Fort-Liberté,Huile végétale,gallon,1742.0
+2024-05,Nord-Est,Fort-Liberté,Sucre,marmite,571.0
+2024-05,Nord-Est,Fort-Liberté,Spaghetti,paquet,90.0
+2024-05,Nord-Ouest,Port-de-Paix,Riz importé,marmite,689.0
+2024-05,Nord-Ouest,Port-de-Paix,Riz local,marmite,808.0
+2024-05,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,
+2024-05,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,505.0
+2024-05,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,895.0
+2024-05,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,1811.0
+2024-05,Nord-Ouest,Port-de-Paix,Sucre,marmite,558.0
+2024-05,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,90.0
+2024-05,Ouest,Croix-des-Bossales,Riz importé,marmite,589.0
+2024-05,Ouest,Croix-des-Bossales,Riz local,marmite,730.0
+2024-05,Ouest,Croix-des-Bossales,Maïs moulu,marmite,365.0
+2024-05,Ouest,Croix-des-Bossales,Farine de blé,marmite,459.0
+2024-05,Ouest,Croix-des-Bossales,Haricot noir,marmite,875 HTG
+2024-05,Ouest,Croix-des-Bossales,Huile végétale,gallon,1672.0
+2024-05,Ouest,Croix-des-Bossales,Sucre,marmite,543.0
+2024-05,Ouest,Croix-des-Bossales,spaghetti ,paquet,78.0
+2024-05,Ouest,Pétion-Ville,Riz importé,marmite,553.0
+2024-05,Ouest,Pétion-Ville,Riz local,marmite,759.0
+2024-05,Ouest,Pétion-Ville,Maïs moulu,marmite,
+2024-05,Ouest,Pétion-Ville,Farine de blé,marmite,476.0
+2024-05,Ouest,Pétion-Ville,Haricot noir,marmite,849.0
+2024-05,Ouest,Pétion-Ville,Huile végétale,gallon,1610.0
+2024-05,Ouest,Pétion-Ville,Sucre,marmite,523.0
+2024-05,Ouest,Pétion-Ville,Spaghetti,paquet,"82,0"
+2024-05,Sud,Les Cayes,Riz importé,marmite,621.0
+2024-05,Sud,Les Cayes,Riz local,marmite,723.0
+2024-05,Sud,Les Cayes,Maïs moulu,marmite,389.0
+2024-05,Sud,Les Cayes,Farine de blé,marmite,462.0
+2024-05,Sud,Les Cayes,Haricot noir,marmite,915.0
+2024-05,Sud,Les Cayes,Huile végétale,gallon,1879.0
+2024-05,Sud,Les Cayes,Sucre,marmite,568.0
+2024-05,Sud,Les Cayes,Spaghetti,paquet,90.0
+2024-05,Sud,Les Cayes,Huile végétale,gallon,1879.0
+2024-05,Sud-Est,Jacmel,Riz importé,marmite,617 HTG
+2024-05,Sud-Est,Jacmel,Riz local,marmite,761.0
+2024-05,Sud-Est,Jacmel,maïs moulu ,marmite,389 HTG
+2024-05,Sud-Est,Jacmel,Farine de blé,marmite,473.0
+2024-05,Sud-Est,Jacmel,Haricot noir,marmite,870.0
+2024-05,Sud-Est,Jacmel,Huile végétale,gallon,1719.0
+2024-05,Sud-Est,Jacmel,Sucre,marmite,569.0
+2024-05,Sud-Est,Jacmel,Spaghetti,paquet,84.0
+2024-05,Sud-Est,Jacmel,Huile végétale,gallon,1719.0
+2024-05,artibonite,Gonaïves,Riz importé,marmite,539.0
+2024-05,centre,Hinche,Maïs moulu,marmite,396.0
+2024-06,Artibonite,Gonaïves,Riz importé,marmite,566.0
+2024-06,Artibonite,Gonaïves,Riz local,marmite,692.0
+2024-06,Artibonite,Gonaïves,Maïs moulu,marmite,380.0
+2024-06,Artibonite,Gonaïves,Haricot noir,marmite,916.0
+2024-06,Artibonite,Gonaïves,Huile végétale,gallon,1671.0
+2024-06,Artibonite,Gonaïves,Sucre,marmite,498.0
+2024-06,Artibonite,Gonaïves,Spaghetti,paquet,81.0
+2024-06,Artibonite,Saint-Marc,Riz local,marmite,732.0
+2024-06,Artibonite,Saint-Marc,Maïs moulu,marmite,388.0
+2024-06,Artibonite,Saint-Marc,Farine de blé,marmite,430.0
+2024-06,Artibonite,Saint-Marc,Haricot noir,marmite,
+2024-06,Artibonite,Saint-Marc,Huile végétale,gallon,1684.0
+2024-06,Artibonite,Saint-Marc,Sucre,marmite,523.0
+2024-06,Artibonite,Saint-Marc,Spaghetti,paquet,94.0
+2024-06,Artibonite ,Saint-Marc,Riz importé,marmite,565.0
+2024-06,Centre,Hinche,Riz importé,marmite,655.0
+2024-06,Centre,Hinche,Riz local,marmite,758.0
+2024-06,Centre,Hinche,Maïs moulu,marmite,409.0
+2024-06,Centre,Hinche,Farine de blé,marmite,500.0
+2024-06,Centre,Hinche,Haricot noir,marmite,841.0
+2024-06,Centre,Hinche,Huile végétale,gallon,1757.0
+2024-06,Centre,Hinche,Sucre,marmite,523.0
+2024-06,Centre,Hinche,Spaghetti,paquet,90.0
+2024-06,Grand'Anse,Jérémie,Riz importé,marmite,669.0
+2024-06,Grand'Anse,Jérémie,Riz local,marmite,788.0
+2024-06,Grand'Anse,Jérémie,Maïs moulu,marmite,419.0
+2024-06,Grand'Anse,Jérémie,Farine de blé,marmite,518.0
+2024-06,Grand'Anse,Jérémie,Haricot noir,marmite,1005.0
+2024-06,Grand'Anse,Jérémie,Sucre,marmite,573.0
+2024-06,Grand'Anse,Jérémie,spaghetti ,paquet,98.0
+2024-06,Grande-Anse,Jérémie,Huile végétale,gallon,1840.0
+2024-06,Nippes,Miragoâne,Riz importé,marmite,"666,0"
+2024-06,Nippes,Miragoâne,Riz local,marmite,816.0
+2024-06,Nippes,Miragoâne,Maïs moulu,marmite,410.0
+2024-06,Nippes,Miragoâne,Farine de blé,marmite,501.0
+2024-06,Nippes,Miragoâne,Haricot noir,marmite,925.0
+2024-06,Nippes,Miragoâne,Huile végétale,gallon,1790.0
+2024-06,Nippes,Miragoâne,Sucre,marmite,574.0
+2024-06,Nippes,Miragoâne,Spaghetti,paquet,88.0
+2024-06,Nord,Cap-Haïtien,Riz importé,marmite,633.0
+2024-06,Nord,Cap-Haïtien,Riz local,marmite,765.0
+2024-06,Nord,Cap-Haïtien,Maïs moulu,marmite,403.0
+2024-06,Nord,Cap-Haïtien,Farine de blé,marmite,480.0
+2024-06,Nord,Cap-Haïtien,Haricot noir,marmite,873.0
+2024-06,Nord,Cap-Haïtien,Huile végétale,gallon,1757.0
+2024-06,Nord,Cap-Haïtien,Sucre,marmite,"572,0"
+2024-06,Nord,Cap-Haïtien,Spaghetti,paquet,89.0
+2024-06,Nord-Est,Fort-Liberté,Riz importé,marmite,706.0
+2024-06,Nord-Est,Fort-Liberté,Riz local,marmite,800.0
+2024-06,Nord-Est,Fort-Liberté,Maïs moulu,marmite,378.0
+2024-06,Nord-Est,Fort-Liberté,Farine de blé,marmite,5060.0
+2024-06,Nord-Est,Fort-Liberté,Haricot noir,marmite,1018.0
+2024-06,Nord-Est,Fort-Liberté,Huile végétale,gallon,1793.0
+2024-06,Nord-Est,Fort-Liberté,Sucre,marmite,
+2024-06,Nord-Est,Fort-Liberté,Spaghetti,paquet,96.0
+2024-06,Nord-Ouest,Port-de-Paix,Riz importé,marmite,654.0
+2024-06,Nord-Ouest,Port-de-Paix,Riz local,marmite,817.0
+2024-06,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,420.0
+2024-06,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,527.0
+2024-06,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,954.0
+2024-06,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,1762.0
+2024-06,Nord-Ouest,Port-de-Paix,Sucre,marmite,566 HTG
+2024-06,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,"99,0"
+2024-06,OUEST,Pétion-Ville,Huile végétale,gallon,1735.0
+2024-06,Ouest,Croix-des-Bossales,Riz importé,marmite,"573,0"
+2024-06,Ouest,Croix-des-Bossales,Riz local,marmite,747.0
+2024-06,Ouest,Croix-des-Bossales,Maïs moulu,marmite,387.0
+2024-06,Ouest,Croix-des-Bossales,Farine de blé,marmite,490.0
+2024-06,Ouest,Croix-des-Bossales,Haricot noir,marmite,846.0
+2024-06,Ouest,Croix-des-Bossales,Huile végétale,gallon,1704.0
+2024-06,Ouest,Croix-des-Bossales,Sucre,marmite,531.0
+2024-06,Ouest,Croix-des-Bossales,Spaghetti,paquet,91.0
+2024-06,Ouest,Pétion-Ville,Riz importé,marmite,587.0
+2024-06,Ouest,Pétion-Ville,Riz local,marmite,713.0
+2024-06,Ouest,Pétion-Ville,Maïs moulu,marmite,389.0
+2024-06,Ouest,Pétion-Ville,Farine de blé,marmite,461.0
+2024-06,Ouest,Pétion-Ville,Haricot noir,marmite,841.0
+2024-06,Ouest,Pétion-Ville,Sucre,marmite,541.0
+2024-06,Ouest,Pétion-Ville,Spaghetti,paquet,77.0
+2024-06,Sud,Les Cayes,Riz importé,marmite,647.0
+2024-06,Sud,Les Cayes,Riz local,marmite,762.0
+2024-06,Sud,Les Cayes,maïs moulu ,marmite,421.0
+2024-06,Sud,Les Cayes,Farine de blé,marmite,498.0
+2024-06,Sud,Les Cayes,Haricot noir,marmite,"934,0"
+2024-06,Sud,Les Cayes,Huile végétale,gallon,1795.0
+2024-06,Sud,Les Cayes,Sucre,marmite,528.0
+2024-06,Sud,Les Cayes,Spaghetti,paquet,90.0
+2024-06,Sud-Est,Jacmel,Riz importé,marmite,
+2024-06,Sud-Est,Jacmel,Riz local,marmite,786.0
+2024-06,Sud-Est,Jacmel,Maïs moulu,marmite,414.0
+2024-06,Sud-Est,Jacmel,Farine de blé,marmite,516.0
+2024-06,Sud-Est,Jacmel,Haricot noir,marmite,881.0
+2024-06,Sud-Est,Jacmel,huile végétale ,gallon,1650.0
+2024-06,Sud-Est,Jacmel,Sucre,marmite,
+2024-06,Sud-Est,Jacmel,Spaghetti,paquet,85.0
+2024-06,Sud-Est,Jacmel,Haricot noir,marmite,881.0
+2024-06,artibonite,Gonaïves,Farine de blé,marmite,485.0
+2024-07,Artibonite,Gonaïves,riz importé ,marmite,619.0
+2024-07,Artibonite,Gonaïves,Riz local,marmite,714.0
+2024-07,Artibonite,Gonaïves,Maïs moulu,marmite,373.0
+2024-07,Artibonite,Gonaïves,Farine de blé,marmite,449.0
+2024-07,Artibonite,Gonaïves,Haricot noir,marmite,894.0
+2024-07,Artibonite,Gonaïves,Huile végétale,gallon,1711.0
+2024-07,Artibonite,Gonaïves,Sucre,marmite,518 HTG
+2024-07,Artibonite,Gonaïves,Spaghetti,paquet,90.0
+2024-07,Artibonite,Saint-Marc,Riz importé,marmite,614.0
+2024-07,Artibonite,Saint-Marc,Riz local,marmite,729.0
+2024-07,Artibonite,Saint-Marc,Maïs moulu,marmite,387.0
+2024-07,Artibonite,Saint-Marc,Farine de blé,marmite,442.0
+2024-07,Artibonite,Saint-Marc,Haricot noir,marmite,861.0
+2024-07,Artibonite,Saint-Marc,Huile végétale,gallon,1673.0
+2024-07,Artibonite,Saint-Marc,Spaghetti,paquet,"92,0"
+2024-07,Artibonite ,Saint-Marc,Sucre,marmite,526.0
+2024-07,Centre,Hinche,Riz importé,marmite,595.0
+2024-07,Centre,Hinche,Riz local,marmite,754.0
+2024-07,Centre,Hinche,Maïs moulu,marmite,397.0
+2024-07,Centre,Hinche,Farine de blé,marmite,483.0
+2024-07,Centre,Hinche,Haricot noir,marmite,931.0
+2024-07,Centre,Hinche,Huile végétale,gallon,1805.0
+2024-07,Centre,Hinche,Sucre,marmite,558.0
+2024-07,Centre,Hinche,Spaghetti,paquet,"89,0"
+2024-07,Grand'Anse,Jérémie,Riz importé,marmite,651.0
+2024-07,Grand'Anse,Jérémie,Riz local,marmite,822.0
+2024-07,Grand'Anse,Jérémie,Maïs moulu,marmite,434.0
+2024-07,Grand'Anse,Jérémie,Farine de blé,marmite,487.0
+2024-07,Grand'Anse,Jérémie,Haricot noir,marmite,1010.0
+2024-07,Grand'Anse,Jérémie,Huile végétale,gallon,1932.0
+2024-07,Grand'Anse,Jérémie,Sucre,marmite,621.0
+2024-07,Grand'Anse,Jérémie,Spaghetti,paquet,97.0
+2024-07,NORD,Cap-Haïtien,Farine de blé,marmite,495.0
+2024-07,Nippes,Miragoâne,Riz importé,marmite,646.0
+2024-07,Nippes,Miragoâne,Maïs moulu,marmite,388.0
+2024-07,Nippes,Miragoâne,Farine de blé,marmite,527.0
+2024-07,Nippes,Miragoâne,Haricot noir,marmite,952.0
+2024-07,Nippes,Miragoâne,Huile végétale,gallon,1795.0
+2024-07,Nippes,Miragoâne,Spaghetti,paquet,89.0
+2024-07,Nord,Cap-Haïtien,Riz importé,marmite,638.0
+2024-07,Nord,Cap-Haïtien,Riz local,marmite,787.0
+2024-07,Nord,Cap-Haïtien,Maïs moulu,marmite,382.0
+2024-07,Nord,Cap-Haïtien,Haricot noir,marmite,898.0
+2024-07,Nord,Cap-Haïtien,Huile végétale,gallon,1906.0
+2024-07,Nord,Cap-Haïtien,Sucre,marmite,550.0
+2024-07,Nord,Cap-Haïtien,Spaghetti,paquet,91.0
+2024-07,Nord,Cap-Haïtien,Maïs moulu,marmite,382.0
+2024-07,Nord-Est,Fort-Liberté,Riz importé,marmite,617.0
+2024-07,Nord-Est,Fort-Liberté,Riz local,marmite,817.0
+2024-07,Nord-Est,Fort-Liberté,Maïs moulu,marmite,393.0
+2024-07,Nord-Est,Fort-Liberté,Farine de blé,marmite,522.0
+2024-07,Nord-Est,Fort-Liberté,Haricot noir,marmite,927.0
+2024-07,Nord-Est,Fort-Liberté,Huile végétale,gallon,1748 HTG
+2024-07,Nord-Est,Fort-Liberté,Sucre,marmite,581.0
+2024-07,Nord-Est,Fort-Liberté,Spaghetti,paquet,97.0
+2024-07,Nord-Ouest,Port-de-Paix,Riz importé,marmite,707.0
+2024-07,Nord-Ouest,Port-de-Paix,Riz local,marmite,834.0
+2024-07,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,433.0
+2024-07,Nord-Ouest,Port-de-Paix,farine de blé ,marmite,517.0
+2024-07,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,978.0
+2024-07,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,1946.0
+2024-07,Nord-Ouest,Port-de-Paix,Sucre,marmite,612.0
+2024-07,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,
+2024-07,OUEST,Pétion-Ville,Spaghetti,paquet,92.0
+2024-07,Ouest,Croix-des-Bossales,Riz importé,marmite,607.0
+2024-07,Ouest,Croix-des-Bossales,Riz local,marmite,753.0
+2024-07,Ouest,Croix-des-Bossales,Maïs moulu,marmite,391 HTG
+2024-07,Ouest,Croix-des-Bossales,Farine de blé,marmite,478.0
+2024-07,Ouest,Croix-des-Bossales,Haricot noir,marmite,921.0
+2024-07,Ouest,Croix-des-Bossales,Huile végétale,gallon,1703.0
+2024-07,Ouest,Croix-des-Bossales,Sucre,marmite,535.0
+2024-07,Ouest,Croix-des-Bossales,Spaghetti,paquet,85.0
+2024-07,Ouest,Pétion-Ville,riz importé ,marmite,596.0
+2024-07,Ouest,Pétion-Ville,Riz local,marmite,761.0
+2024-07,Ouest,Pétion-Ville,Maïs moulu,marmite,391.0
+2024-07,Ouest,Pétion-Ville,Farine de blé,marmite,449.0
+2024-07,Ouest,Pétion-Ville,Haricot noir,marmite,925.0
+2024-07,Ouest,Pétion-Ville,Huile végétale,gallon,1667.0
+2024-07,Ouest,Pétion-Ville,Sucre,marmite,525.0
+2024-07,Sud,Les Cayes,Riz local,marmite,803.0
+2024-07,Sud,Les Cayes,Maïs moulu,marmite,385.0
+2024-07,Sud,Les Cayes,Farine de blé,marmite,514.0
+2024-07,Sud,Les Cayes,Haricot noir,marmite,955.0
+2024-07,Sud,Les Cayes,Huile végétale,gallon,1767.0
+2024-07,Sud,Les Cayes,Sucre,marmite,573.0
+2024-07,Sud,Les Cayes,spaghetti ,paquet,92.0
+2024-07,Sud-Est,Jacmel,Riz importé,marmite,644.0
+2024-07,Sud-Est,Jacmel,Riz local,marmite,798.0
+2024-07,Sud-Est,Jacmel,Maïs moulu,marmite,395.0
+2024-07,Sud-Est,Jacmel,Farine de blé,marmite,504.0
+2024-07,Sud-Est,Jacmel,Haricot noir,marmite,924.0
+2024-07,Sud-Est,Jacmel,Huile végétale,gallon,
+2024-07,Sud-Est,Jacmel,Sucre,marmite,572.0
+2024-07,Sud-Est,Jacmel,Spaghetti,paquet,92.0
+2024-07,nippes,Miragoâne,Riz local,marmite,793.0
+2024-07,nippes,Miragoâne,Sucre,marmite,601.0
+2024-07,sud,Les Cayes,Riz importé,marmite,665.0
+2024-08,Artibonite,Gonaïves,Riz local,marmite,750.0
+2024-08,Artibonite,Gonaïves,Maïs moulu,marmite,384.0
+2024-08,Artibonite,Gonaïves,Farine de blé,marmite,435.0
+2024-08,Artibonite,Gonaïves,Haricot noir,marmite,875.0
+2024-08,Artibonite,Gonaïves,Huile végétale,gallon,1614.0
+2024-08,Artibonite,Gonaïves,Sucre,marmite,541.0
+2024-08,Artibonite,Gonaïves,Spaghetti,paquet,89.0
+2024-08,Artibonite,Saint-Marc,Riz importé,marmite,623.0
+2024-08,Artibonite,Saint-Marc,Riz local,marmite,733.0
+2024-08,Artibonite,Saint-Marc,Maïs moulu,marmite,379.0
+2024-08,Artibonite,Saint-Marc,Farine de blé,marmite,480.0
+2024-08,Artibonite,Saint-Marc,Haricot noir,marmite,811.0
+2024-08,Artibonite,Saint-Marc,Huile végétale,gallon,1645.0
+2024-08,Artibonite,Saint-Marc,Sucre,marmite,520.0
+2024-08,Artibonite ,Gonaïves,Riz importé,marmite,639.0
+2024-08,Artibonite ,Saint-Marc,Spaghetti,paquet,88.0
+2024-08,Centre,Hinche,Riz importé,marmite,603.0
+2024-08,Centre,Hinche,Riz local,marmite,799.0
+2024-08,Centre,Hinche,Maïs moulu,marmite,390.0
+2024-08,Centre,Hinche,Farine de blé,marmite,484.0
+2024-08,Centre,Hinche,Haricot noir,marmite,984.0
+2024-08,Centre,Hinche,Huile végétale,gallon,1761.0
+2024-08,Centre,Hinche,Sucre,marmite,556.0
+2024-08,Centre,Hinche,Spaghetti,paquet,
+2024-08,Grand'Anse,Jérémie,Riz importé,marmite,713.0
+2024-08,Grand'Anse,Jérémie,Riz local,marmite,858.0
+2024-08,Grand'Anse,Jérémie,Maïs moulu,marmite,468.0
+2024-08,Grand'Anse,Jérémie,Farine de blé,marmite,549.0
+2024-08,Grand'Anse,Jérémie,Haricot noir,marmite,977.0
+2024-08,Grand'Anse,Jérémie,Huile végétale,gallon,1875.0
+2024-08,Grand'Anse,Jérémie,Sucre,marmite,621.0
+2024-08,Grand'Anse,Jérémie,Spaghetti,paquet,101.0
+2024-08,Nippes,Miragoâne,Riz importé,marmite,631.0
+2024-08,Nippes,Miragoâne,Riz local,marmite,804.0
+2024-08,Nippes,Miragoâne,Maïs moulu,marmite,402.0
+2024-08,Nippes,Miragoâne,Farine de blé,marmite,550.0
+2024-08,Nippes,Miragoâne,haricot noir ,marmite,972.0
+2024-08,Nippes,Miragoâne,Huile végétale,gallon,1808.0
+2024-08,Nippes,Miragoâne,Sucre,marmite,572.0
+2024-08,Nippes,Miragoâne,Spaghetti,paquet,96.0
+2024-08,Nord,Cap-Haïtien,Riz importé,marmite,626.0
+2024-08,Nord,Cap-Haïtien,Riz local,marmite,803.0
+2024-08,Nord,Cap-Haïtien,Maïs moulu,marmite,401.0
+2024-08,Nord,Cap-Haïtien,Farine de blé,marmite,517.0
+2024-08,Nord,Cap-Haïtien,Haricot noir,marmite,1002.0
+2024-08,Nord,Cap-Haïtien,Huile végétale,gallon,1871.0
+2024-08,Nord,Cap-Haïtien,Sucre,marmite,581.0
+2024-08,Nord,Cap-Haïtien,Spaghetti,paquet,95.0
+2024-08,Nord Est,Fort-Liberté,Riz importé,marmite,640.0
+2024-08,Nord-Est,Fort-Liberté,Riz local,marmite,
+2024-08,Nord-Est,Fort-Liberté,Maïs moulu,marmite,438.0
+2024-08,Nord-Est,Fort-Liberté,Farine de blé,marmite,512.0
+2024-08,Nord-Est,Fort-Liberté,Haricot noir,marmite,955.0
+2024-08,Nord-Est,Fort-Liberté,Huile végétale,gallon,1792.0
+2024-08,Nord-Est,Fort-Liberté,Sucre,marmite,608.0
+2024-08,Nord-Est,Fort-Liberté,Spaghetti,paquet,98.0
+2024-08,Nord-Ouest,Port-de-Paix,Riz importé,marmite,689.0
+2024-08,Nord-Ouest,Port-de-Paix,Riz local,marmite,816.0
+2024-08,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,432.0
+2024-08,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,556.0
+2024-08,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,982.0
+2024-08,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,1737.0
+2024-08,Nord-Ouest,Port-de-Paix,Sucre,marmite,587.0
+2024-08,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,101.0
+2024-08,Ouest,Croix-des-Bossales,Riz importé,marmite,607.0
+2024-08,Ouest,Croix-des-Bossales,Riz local,marmite,760.0
+2024-08,Ouest,Croix-des-Bossales,Maïs moulu,marmite,388.0
+2024-08,Ouest,Croix-des-Bossales,Farine de blé,marmite,445.0
+2024-08,Ouest,Croix-des-Bossales,Haricot noir,marmite,914.0
+2024-08,Ouest,Croix-des-Bossales,Huile végétale,gallon,1721.0
+2024-08,Ouest,Croix-des-Bossales,Sucre,marmite,566.0
+2024-08,Ouest,Croix-des-Bossales,Spaghetti,paquet,95.0
+2024-08,Ouest,Pétion-Ville,Riz importé,marmite,614.0
+2024-08,Ouest,Pétion-Ville,Riz local,marmite,770.0
+2024-08,Ouest,Pétion-Ville,Maïs moulu,marmite,395.0
+2024-08,Ouest,Pétion-Ville,Farine de blé,marmite,490.0
+2024-08,Ouest,Pétion-Ville,Haricot noir,marmite,898.0
+2024-08,Ouest,Pétion-Ville,Huile végétale,gallon,1746.0
+2024-08,Ouest,Pétion-Ville,Sucre,marmite,568.0
+2024-08,Ouest,Pétion-Ville,Spaghetti,paquet,86.0
+2024-08,Sud,Les Cayes,Riz importé,marmite,634.0
+2024-08,Sud,Les Cayes,Riz local,marmite,769.0
+2024-08,Sud,Les Cayes,Maïs moulu,marmite,396.0
+2024-08,Sud,Les Cayes,Farine de blé,marmite,510.0
+2024-08,Sud,Les Cayes,Haricot noir,marmite,987.0
+2024-08,Sud,Les Cayes,Huile végétale,gallon,1746.0
+2024-08,Sud,Les Cayes,Sucre,marmite,578.0
+2024-08,Sud,Les Cayes,Spaghetti,paquet,89.0
+2024-08,Sud-Est,Jacmel,Riz importé,marmite,674.0
+2024-08,Sud-Est,Jacmel,Riz local,marmite,808.0
+2024-08,Sud-Est,Jacmel,Maïs moulu,marmite,432.0
+2024-08,Sud-Est,Jacmel,Farine de blé,marmite,493.0
+2024-08,Sud-Est,Jacmel,Haricot noir,marmite,
+2024-08,Sud-Est,Jacmel,Huile végétale,gallon,1822.0
+2024-08,Sud-Est,Jacmel,Sucre,marmite,587.0
+2024-08,Sud-Est,Jacmel,Spaghetti,paquet,84 HTG
+2024-09,Artibonite,Gonaïves,Riz importé,marmite,628.0
+2024-09,Artibonite,Gonaïves,Riz local,marmite,718.0
+2024-09,Artibonite,Gonaïves,Maïs moulu,marmite,378.0
+2024-09,Artibonite,Gonaïves,Farine de blé,marmite,471.0
+2024-09,Artibonite,Gonaïves,Huile végétale,gallon,1729.0
+2024-09,Artibonite,Gonaïves,Sucre,marmite,542 HTG
+2024-09,Artibonite,Gonaïves,Spaghetti,paquet,88.0
+2024-09,Artibonite,Saint-Marc,Riz importé,marmite,598.0
+2024-09,Artibonite,Saint-Marc,Riz local,marmite,761.0
+2024-09,Artibonite,Saint-Marc,Maïs moulu,marmite,394.0
+2024-09,Artibonite,Saint-Marc,Farine de blé,marmite,493.0
+2024-09,Artibonite,Saint-Marc,Haricot noir,marmite,872.0
+2024-09,Artibonite,Saint-Marc,huile végétale ,gallon,1694.0
+2024-09,Artibonite,Saint-Marc,Sucre,marmite,524.0
+2024-09,Artibonite,Saint-Marc,spaghetti ,paquet,
+2024-09,Artibonite ,Gonaïves,Haricot noir,marmite,836.0
+2024-09,Centre,Hinche,Riz importé,marmite,642.0
+2024-09,Centre,Hinche,Riz local,marmite,780.0
+2024-09,Centre,Hinche,Farine de blé,marmite,472.0
+2024-09,Centre,Hinche,Haricot noir,marmite,918.0
+2024-09,Centre,Hinche,Huile végétale,gallon,1651.0
+2024-09,Centre,Hinche,Sucre,marmite,577.0
+2024-09,Centre,Hinche,Spaghetti,paquet,91.0
+2024-09,Centre,Hinche,Riz local,marmite,780.0
+2024-09,Grand'Anse,Jérémie,Riz importé,marmite,688 HTG
+2024-09,Grand'Anse,Jérémie,Riz local,marmite,858.0
+2024-09,Grand'Anse,Jérémie,Maïs moulu,marmite,459.0
+2024-09,Grand'Anse,Jérémie,Farine de blé,marmite,573.0
+2024-09,Grand'Anse,Jérémie,Haricot noir,marmite,1036.0
+2024-09,Grand'Anse,Jérémie,Huile végétale,gallon,2017.0
+2024-09,Grand'Anse,Jérémie,Sucre,marmite,650.0
+2024-09,Grand'Anse,Jérémie,Spaghetti,paquet,
+2024-09,Nippes,Miragoâne,Riz importé,marmite,655.0
+2024-09,Nippes,Miragoâne,Riz local,marmite,844.0
+2024-09,Nippes,Miragoâne,Maïs moulu,marmite,398.0
+2024-09,Nippes,Miragoâne,Farine de blé,marmite,533.0
+2024-09,Nippes,Miragoâne,Haricot noir,marmite,889.0
+2024-09,Nippes,Miragoâne,Huile végétale,gallon,1907.0
+2024-09,Nippes,Miragoâne,Sucre,marmite,579.0
+2024-09,Nippes,Miragoâne,Spaghetti,paquet,95.0
+2024-09,Nord,Cap-Haïtien,Riz importé,marmite,659.0
+2024-09,Nord,Cap-Haïtien,Riz local,marmite,786.0
+2024-09,Nord,Cap-Haïtien,Maïs moulu,marmite,402.0
+2024-09,Nord,Cap-Haïtien,Farine de blé,marmite,513.0
+2024-09,Nord,Cap-Haïtien,Haricot noir,marmite,953.0
+2024-09,Nord,Cap-Haïtien,Huile végétale,gallon,1731.0
+2024-09,Nord,Cap-Haïtien,Sucre,marmite,551.0
+2024-09,Nord,Cap-Haïtien,Spaghetti,paquet,94.0
+2024-09,Nord Est,Fort-Liberté,huile végétale ,gallon,1796.0
+2024-09,Nord-Est,Fort-Liberté,Riz importé,marmite,624.0
+2024-09,Nord-Est,Fort-Liberté,Riz local,marmite,836.0
+2024-09,Nord-Est,Fort-Liberté,Maïs moulu,marmite,402.0
+2024-09,Nord-Est,Fort-Liberté,Farine de blé,marmite,551.0
+2024-09,Nord-Est,Fort-Liberté,Haricot noir,marmite,1017.0
+2024-09,Nord-Est,Fort-Liberté,Sucre,marmite,558.0
+2024-09,Nord-Est,Fort-Liberté,Spaghetti,paquet,92.0
+2024-09,Nord-Ouest,Port-de-Paix,Riz importé,marmite,677.0
+2024-09,Nord-Ouest,Port-de-Paix,Riz local,marmite,836.0
+2024-09,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,418.0
+2024-09,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,517.0
+2024-09,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,929.0
+2024-09,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,1900.0
+2024-09,Nord-Ouest,Port-de-Paix,Sucre,marmite,611.0
+2024-09,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,97.0
+2024-09,Ouest,Croix-des-Bossales,Riz importé,marmite,614.0
+2024-09,Ouest,Croix-des-Bossales,Riz local,marmite,803.0
+2024-09,Ouest,Croix-des-Bossales,Maïs moulu,marmite,380.0
+2024-09,Ouest,Croix-des-Bossales,Farine de blé,marmite,467.0
+2024-09,Ouest,Croix-des-Bossales,Haricot noir,marmite,949.0
+2024-09,Ouest,Croix-des-Bossales,Huile végétale,gallon,1700.0
+2024-09,Ouest,Croix-des-Bossales,Sucre,marmite,575.0
+2024-09,Ouest,Croix-des-Bossales,Spaghetti,paquet,92.0
+2024-09,Ouest,Pétion-Ville,Riz importé,marmite,589.0
+2024-09,Ouest,Pétion-Ville,Riz local,marmite,745.0
+2024-09,Ouest,Pétion-Ville,Maïs moulu,marmite,393.0
+2024-09,Ouest,Pétion-Ville,Farine de blé,marmite,484.0
+2024-09,Ouest,Pétion-Ville,Haricot noir,marmite,914.0
+2024-09,Ouest,Pétion-Ville,Huile végétale,gallon,1689.0
+2024-09,Ouest,Pétion-Ville,Sucre,marmite,546.0
+2024-09,Ouest,Pétion-Ville,Spaghetti,paquet,92.0
+2024-09,Sud,Les Cayes,Riz importé,marmite,655.0
+2024-09,Sud,Les Cayes,Riz local,marmite,786.0
+2024-09,Sud,Les Cayes,Maïs moulu,marmite,426.0
+2024-09,Sud,Les Cayes,Farine de blé,marmite,506.0
+2024-09,Sud,Les Cayes,Haricot noir,marmite,877.0
+2024-09,Sud,Les Cayes,Huile végétale,gallon,1745.0
+2024-09,Sud,Les Cayes,Sucre,marmite,540.0
+2024-09,Sud,Les Cayes,Spaghetti,paquet,97.0
+2024-09,Sud-Est,Jacmel,Riz importé,marmite,643.0
+2024-09,Sud-Est,Jacmel,Riz local,marmite,773.0
+2024-09,Sud-Est,Jacmel,Maïs moulu,marmite,416.0
+2024-09,Sud-Est,Jacmel,Farine de blé,marmite,468.0
+2024-09,Sud-Est,Jacmel,Haricot noir,marmite,913.0
+2024-09,Sud-Est,Jacmel,Huile végétale,gallon,1770.0
+2024-09,Sud-Est,Jacmel,Sucre,marmite,565.0
+2024-09,Sud-Est,Jacmel,Spaghetti,paquet,94.0
+2024-09,centre,Hinche,Maïs moulu,marmite,368.0
+2024-10,Artibonite,Gonaïves,Riz importé,marmite,596.0
+2024-10,Artibonite,Gonaïves,Riz local,marmite,780.0
+2024-10,Artibonite,Gonaïves,Maïs moulu,marmite,398.0
+2024-10,Artibonite,Gonaïves,Farine de blé,marmite,484.0
+2024-10,Artibonite,Gonaïves,Haricot noir,marmite,939.0
+2024-10,Artibonite,Gonaïves,Huile végétale,gallon,1562.0
+2024-10,Artibonite,Gonaïves,Sucre,marmite,537.0
+2024-10,Artibonite,Gonaïves,Spaghetti,paquet,86.0
+2024-10,Artibonite,Saint-Marc,Riz importé,marmite,631.0
+2024-10,Artibonite,Saint-Marc,Riz local,marmite,769.0
+2024-10,Artibonite,Saint-Marc,Maïs moulu,marmite,397.0
+2024-10,Artibonite,Saint-Marc,Farine de blé,marmite,"464,0"
+2024-10,Artibonite,Saint-Marc,Haricot noir,marmite,896.0
+2024-10,Artibonite,Saint-Marc,Huile végétale,gallon,1740.0
+2024-10,Artibonite,Saint-Marc,Sucre,marmite,556.0
+2024-10,Artibonite,Saint-Marc,Spaghetti,paquet,84.0
+2024-10,Centre,Hinche,Riz importé,marmite,"652,0"
+2024-10,Centre,Hinche,Riz local,marmite,788.0
+2024-10,Centre,Hinche,Farine de blé,marmite,496.0
+2024-10,Centre,Hinche,Haricot noir,marmite,917.0
+2024-10,Centre,Hinche,Huile végétale,gallon,1817.0
+2024-10,Centre,Hinche,Sucre,marmite,553.0
+2024-10,Centre,Hinche,Spaghetti,paquet,93.0
+2024-10,Grand'Anse,Jérémie,Riz importé,marmite,668.0
+2024-10,Grand'Anse,Jérémie,Riz local,marmite,"851,0"
+2024-10,Grand'Anse,Jérémie,Maïs moulu,marmite,436.0
+2024-10,Grand'Anse,Jérémie,Farine de blé,marmite,515.0
+2024-10,Grand'Anse,Jérémie,Haricot noir,marmite,972.0
+2024-10,Grand'Anse,Jérémie,Huile végétale,gallon,1896.0
+2024-10,Grand'Anse,Jérémie,Sucre,marmite,602.0
+2024-10,Grand'Anse,Jérémie,Spaghetti,paquet,101.0
+2024-10,Grand'Anse,Jérémie,Spaghetti,paquet,101.0
+2024-10,NORD,Cap-Haïtien,Haricot noir,marmite,978.0
+2024-10,Nippes,Miragoâne,riz importé ,marmite,672.0
+2024-10,Nippes,Miragoâne,Riz local,marmite,807.0
+2024-10,Nippes,Miragoâne,Maïs moulu,marmite,427.0
+2024-10,Nippes,Miragoâne,Farine de blé,marmite,532.0
+2024-10,Nippes,Miragoâne,Haricot noir,marmite,941.0
+2024-10,Nippes,Miragoâne,Huile végétale,gallon,1884.0
+2024-10,Nippes,Miragoâne,Sucre,marmite,586.0
+2024-10,Nippes,Miragoâne,Spaghetti,paquet,91.0
+2024-10,Nord,Cap-Haïtien,Riz importé,marmite,623 HTG
+2024-10,Nord,Cap-Haïtien,Riz local,marmite,793.0
+2024-10,Nord,Cap-Haïtien,Maïs moulu,marmite,425.0
+2024-10,Nord,Cap-Haïtien,Farine de blé,marmite,514.0
+2024-10,Nord,Cap-Haïtien,Huile végétale,gallon,1659.0
+2024-10,Nord,Cap-Haïtien,Sucre,marmite,559.0
+2024-10,Nord,Cap-Haïtien,Spaghetti,paquet,94.0
+2024-10,Nord Est,Fort-Liberté,Haricot noir,marmite,956.0
+2024-10,Nord-Est,Fort-Liberté,Riz importé,marmite,648.0
+2024-10,Nord-Est,Fort-Liberté,riz local ,marmite,
+2024-10,Nord-Est,Fort-Liberté,Maïs moulu,marmite,411.0
+2024-10,Nord-Est,Fort-Liberté,Farine de blé,marmite,471.0
+2024-10,Nord-Est,Fort-Liberté,Huile végétale,gallon,1778.0
+2024-10,Nord-Est,Fort-Liberté,Sucre,marmite,578.0
+2024-10,Nord-Est,Fort-Liberté,Spaghetti,paquet,92.0
+2024-10,Nord-Ouest,Port-de-Paix,Riz importé,marmite,632.0
+2024-10,Nord-Ouest,Port-de-Paix,Riz local,marmite,875.0
+2024-10,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,470.0
+2024-10,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,547.0
+2024-10,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,994.0
+2024-10,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,1866.0
+2024-10,Nord-Ouest,Port-de-Paix,Sucre,marmite,"618,0"
+2024-10,Nord-Ouest,Port-de-Paix,spaghetti ,paquet,96.0
+2024-10,Ouest,Croix-des-Bossales,Riz importé,marmite,618.0
+2024-10,Ouest,Croix-des-Bossales,Riz local,marmite,788.0
+2024-10,Ouest,Croix-des-Bossales,Maïs moulu,marmite,398.0
+2024-10,Ouest,Croix-des-Bossales,Farine de blé,marmite,518.0
+2024-10,Ouest,Croix-des-Bossales,Haricot noir,marmite,850.0
+2024-10,Ouest,Croix-des-Bossales,Huile végétale,gallon,1674.0
+2024-10,Ouest,Croix-des-Bossales,Sucre,marmite,522.0
+2024-10,Ouest,Croix-des-Bossales,Spaghetti,paquet,92.0
+2024-10,Ouest,Pétion-Ville,Riz importé,marmite,583.0
+2024-10,Ouest,Pétion-Ville,Riz local,marmite,828.0
+2024-10,Ouest,Pétion-Ville,Maïs moulu,marmite,395 HTG
+2024-10,Ouest,Pétion-Ville,Farine de blé,marmite,510.0
+2024-10,Ouest,Pétion-Ville,Haricot noir,marmite,875.0
+2024-10,Ouest,Pétion-Ville,Huile végétale,gallon,1740.0
+2024-10,Ouest,Pétion-Ville,Sucre,marmite,560.0
+2024-10,Ouest,Pétion-Ville,Spaghetti,paquet,87.0
+2024-10,Sud,Les Cayes,Riz importé,marmite,651.0
+2024-10,Sud,Les Cayes,Riz local,marmite,741.0
+2024-10,Sud,Les Cayes,Maïs moulu,marmite,425.0
+2024-10,Sud,Les Cayes,Farine de blé,marmite,514.0
+2024-10,Sud,Les Cayes,Haricot noir,marmite,927.0
+2024-10,Sud,Les Cayes,Huile végétale,gallon,1873.0
+2024-10,Sud,Les Cayes,Sucre,marmite,536.0
+2024-10,Sud,Les Cayes,Spaghetti,paquet,91.0
+2024-10,Sud Est,Jacmel,Huile végétale,gallon,1815.0
+2024-10,Sud-Est,Jacmel,Riz importé,marmite,"632,0"
+2024-10,Sud-Est,Jacmel,Riz local,marmite,741.0
+2024-10,Sud-Est,Jacmel,Maïs moulu,marmite,417.0
+2024-10,Sud-Est,Jacmel,Farine de blé,marmite,508.0
+2024-10,Sud-Est,Jacmel,Haricot noir,marmite,943.0
+2024-10,Sud-Est,Jacmel,Sucre,marmite,561.0
+2024-10,Sud-Est,Jacmel,Spaghetti,paquet,94.0
+2024-10,centre,Hinche,Maïs moulu,marmite,398.0
+2024-11,Artibonite,Gonaïves,Riz importé,marmite,605.0
+2024-11,Artibonite,Gonaïves,Riz local,marmite,750.0
+2024-11,Artibonite,Gonaïves,Maïs moulu,marmite,390.0
+2024-11,Artibonite,Gonaïves,Farine de blé,marmite,451.0
+2024-11,Artibonite,Gonaïves,Haricot noir,marmite,880.0
+2024-11,Artibonite,Gonaïves,Huile végétale,gallon,1589.0
+2024-11,Artibonite,Gonaïves,Sucre,marmite,529.0
+2024-11,Artibonite,Gonaïves,Spaghetti,paquet,87.0
+2024-11,Artibonite,Saint-Marc,Riz importé,marmite,567.0
+2024-11,Artibonite,Saint-Marc,Riz local,marmite,712.0
+2024-11,Artibonite,Saint-Marc,Maïs moulu,marmite,379.0
+2024-11,Artibonite,Saint-Marc,Farine de blé,marmite,513.0
+2024-11,Artibonite,Saint-Marc,Haricot noir,marmite,842.0
+2024-11,Artibonite,Saint-Marc,Huile végétale,gallon,1695.0
+2024-11,Artibonite,Saint-Marc,Sucre,marmite,519.0
+2024-11,Artibonite,Saint-Marc,Spaghetti,paquet,86.0
+2024-11,Centre,Hinche,Riz local,marmite,770.0
+2024-11,Centre,Hinche,Maïs moulu,marmite,395.0
+2024-11,Centre,Hinche,Farine de blé,marmite,479.0
+2024-11,Centre,Hinche,Haricot noir,marmite,921.0
+2024-11,Centre,Hinche,Huile végétale,gallon,1841.0
+2024-11,Centre,Hinche,Sucre,marmite,530.0
+2024-11,Centre,Hinche,Spaghetti,paquet,93.0
+2024-11,Grand Anse,Jérémie,Haricot noir,marmite,1055.0
+2024-11,Grand'Anse,Jérémie,Riz importé,marmite,720.0
+2024-11,Grand'Anse,Jérémie,Riz local,marmite,867.0
+2024-11,Grand'Anse,Jérémie,Maïs moulu,marmite,431.0
+2024-11,Grand'Anse,Jérémie,Farine de blé,marmite,530.0
+2024-11,Grand'Anse,Jérémie,Huile végétale,gallon,2023.0
+2024-11,Grand'Anse,Jérémie,Sucre,marmite,594.0
+2024-11,Grand'Anse,Jérémie,Spaghetti,paquet,98.0
+2024-11,Nippes,Miragoâne,Riz importé,marmite,6870.0
+2024-11,Nippes,Miragoâne,Riz local,marmite,778 HTG
+2024-11,Nippes,Miragoâne,Maïs moulu,marmite,415.0
+2024-11,Nippes,Miragoâne,Farine de blé,marmite,530.0
+2024-11,Nippes,Miragoâne,Haricot noir,marmite,9720.0
+2024-11,Nippes,Miragoâne,huile végétale ,gallon,1904.0
+2024-11,Nippes,Miragoâne,Spaghetti,paquet,95.0
+2024-11,Nord,Cap-Haïtien,Riz importé,marmite,665.0
+2024-11,Nord,Cap-Haïtien,Riz local,marmite,800.0
+2024-11,Nord,Cap-Haïtien,Maïs moulu,marmite,414.0
+2024-11,Nord,Cap-Haïtien,Farine de blé,marmite,
+2024-11,Nord,Cap-Haïtien,Haricot noir,marmite,958.0
+2024-11,Nord,Cap-Haïtien,Huile végétale,gallon,1657.0
+2024-11,Nord,Cap-Haïtien,Sucre,marmite,576.0
+2024-11,Nord,Cap-Haïtien,Spaghetti,paquet,92.0
+2024-11,Nord-Est,Fort-Liberté,Riz importé,marmite,659 HTG
+2024-11,Nord-Est,Fort-Liberté,Riz local,marmite,
+2024-11,Nord-Est,Fort-Liberté,Maïs moulu,marmite,415.0
+2024-11,Nord-Est,Fort-Liberté,Farine de blé,marmite,506.0
+2024-11,Nord-Est,Fort-Liberté,Haricot noir,marmite,1000.0
+2024-11,Nord-Est,Fort-Liberté,Huile végétale,gallon,1883.0
+2024-11,Nord-Est,Fort-Liberté,Sucre,marmite,571.0
+2024-11,Nord-Est,Fort-Liberté,Spaghetti,paquet,93.0
+2024-11,Nord-Est,Fort-Liberté,Maïs moulu,marmite,415.0
+2024-11,Nord-Ouest,Port-de-Paix,Riz importé,marmite,626.0
+2024-11,Nord-Ouest,Port-de-Paix,Riz local,marmite,824.0
+2024-11,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,442.0
+2024-11,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,531.0
+2024-11,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,"961,0"
+2024-11,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,1889.0
+2024-11,Nord-Ouest,Port-de-Paix,Sucre,marmite,628.0
+2024-11,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,104.0
+2024-11,OUEST,Croix-des-Bossales,Haricot noir,marmite,962.0
+2024-11,Ouest,Croix-des-Bossales,Riz importé,marmite,621.0
+2024-11,Ouest,Croix-des-Bossales,Riz local,marmite,771.0
+2024-11,Ouest,Croix-des-Bossales,Maïs moulu,marmite,414.0
+2024-11,Ouest,Croix-des-Bossales,Farine de blé,marmite,
+2024-11,Ouest,Croix-des-Bossales,Huile végétale,gallon,1787.0
+2024-11,Ouest,Croix-des-Bossales,Sucre,marmite,511.0
+2024-11,Ouest,Croix-des-Bossales,Spaghetti,paquet,
+2024-11,Ouest,Croix-des-Bossales,Sucre,marmite,511.0
+2024-11,Ouest,Pétion-Ville,Riz importé,marmite,637.0
+2024-11,Ouest,Pétion-Ville,Maïs moulu,marmite,403.0
+2024-11,Ouest,Pétion-Ville,Farine de blé,marmite,516.0
+2024-11,Ouest,Pétion-Ville,Haricot noir,marmite,903.0
+2024-11,Ouest,Pétion-Ville,Huile végétale,gallon,1826.0
+2024-11,Ouest,Pétion-Ville,Sucre,marmite,578.0
+2024-11,Ouest,Pétion-Ville,Spaghetti,paquet,90.0
+2024-11,Sud,Les Cayes,Riz importé,marmite,658.0
+2024-11,Sud,Les Cayes,Riz local,marmite,822.0
+2024-11,Sud,Les Cayes,Maïs moulu,marmite,418.0
+2024-11,Sud,Les Cayes,Haricot noir,marmite,910.0
+2024-11,Sud,Les Cayes,Huile végétale,gallon,1838.0
+2024-11,Sud,Les Cayes,Sucre,marmite,572.0
+2024-11,Sud,Les Cayes,Spaghetti,paquet,93.0
+2024-11,Sud-Est,Jacmel,Riz importé,marmite,690.0
+2024-11,Sud-Est,Jacmel,Riz local,marmite,826.0
+2024-11,Sud-Est,Jacmel,Maïs moulu,marmite,421.0
+2024-11,Sud-Est,Jacmel,Farine de blé,marmite,534.0
+2024-11,Sud-Est,Jacmel,Haricot noir,marmite,919.0
+2024-11,Sud-Est,Jacmel,Huile végétale,gallon,1765.0
+2024-11,Sud-Est,Jacmel,Sucre,marmite,
+2024-11,Sud-Est,Jacmel,spaghetti ,paquet,97.0
+2024-11,Sud-Est,Jacmel,Riz local,marmite,826.0
+2024-11,centre,Hinche,Riz importé,marmite,665.0
+2024-11,nippes,Miragoâne,Sucre,marmite,550.0
+2024-11,ouest,Pétion-Ville,Riz local,marmite,729.0
+2024-11,sud,Les Cayes,Farine de blé,marmite,524.0
+2024-12,Artibonite,Gonaïves,Riz importé,marmite,
+2024-12,Artibonite,Gonaïves,Riz local,marmite,756.0
+2024-12,Artibonite,Gonaïves,Maïs moulu,marmite,390.0
+2024-12,Artibonite,Gonaïves,Farine de blé,marmite,458.0
+2024-12,Artibonite,Gonaïves,Haricot noir,marmite,924.0
+2024-12,Artibonite,Gonaïves,Huile végétale,gallon,1634.0
+2024-12,Artibonite,Gonaïves,Sucre,marmite,552.0
+2024-12,Artibonite,Gonaïves,Spaghetti,paquet,88.0
+2024-12,Artibonite,Saint-Marc,Riz importé,marmite,608.0
+2024-12,Artibonite,Saint-Marc,Riz local,marmite,759.0
+2024-12,Artibonite,Saint-Marc,Maïs moulu,marmite,4010.0
+2024-12,Artibonite,Saint-Marc,Farine de blé,marmite,499.0
+2024-12,Artibonite,Saint-Marc,Haricot noir,marmite,886.0
+2024-12,Artibonite,Saint-Marc,Huile végétale,gallon,1706.0
+2024-12,Artibonite,Saint-Marc,Sucre,marmite,528.0
+2024-12,Artibonite,Saint-Marc,Spaghetti,paquet,
+2024-12,Centre,Hinche,Riz importé,marmite,649.0
+2024-12,Centre,Hinche,Riz local,marmite,794.0
+2024-12,Centre,Hinche,Maïs moulu,marmite,412.0
+2024-12,Centre,Hinche,Farine de blé,marmite,"488,0"
+2024-12,Centre,Hinche,Haricot noir,marmite,1003.0
+2024-12,Centre,Hinche,huile végétale ,gallon,1717.0
+2024-12,Centre,Hinche,Sucre,marmite,569.0
+2024-12,Grand'Anse,Jérémie,Riz importé,marmite,727.0
+2024-12,Grand'Anse,Jérémie,Riz local,marmite,901.0
+2024-12,Grand'Anse,Jérémie,Maïs moulu,marmite,438.0
+2024-12,Grand'Anse,Jérémie,Farine de blé,marmite,537.0
+2024-12,Grand'Anse,Jérémie,Haricot noir,marmite,990.0
+2024-12,Grand'Anse,Jérémie,Huile végétale,gallon,1944.0
+2024-12,Grand'Anse,Jérémie,Sucre,marmite,625.0
+2024-12,Grand'Anse,Jérémie,Spaghetti,paquet,98.0
+2024-12,Nippes,Miragoâne,Riz importé,marmite,656.0
+2024-12,Nippes,Miragoâne,Riz local,marmite,803.0
+2024-12,Nippes,Miragoâne,Maïs moulu,marmite,430.0
+2024-12,Nippes,Miragoâne,Farine de blé,marmite,510.0
+2024-12,Nippes,Miragoâne,Haricot noir,marmite,984.0
+2024-12,Nippes,Miragoâne,Huile végétale,gallon,1863.0
+2024-12,Nippes,Miragoâne,Sucre,marmite,604.0
+2024-12,Nord,Cap-Haïtien,Riz importé,marmite,675.0
+2024-12,Nord,Cap-Haïtien,Riz local,marmite,773 HTG
+2024-12,Nord,Cap-Haïtien,Maïs moulu,marmite,404.0
+2024-12,Nord,Cap-Haïtien,Farine de blé,marmite,522.0
+2024-12,Nord,Cap-Haïtien,Haricot noir,marmite,910.0
+2024-12,Nord,Cap-Haïtien,Huile végétale,gallon,1852 HTG
+2024-12,Nord,Cap-Haïtien,Sucre,marmite,561.0
+2024-12,Nord,Cap-Haïtien,Spaghetti,paquet,90.0
+2024-12,Nord Est,Fort-Liberté,Sucre,marmite,580.0
+2024-12,Nord Ouest,Port-de-Paix,Sucre,marmite,590.0
+2024-12,Nord-Est,Fort-Liberté,Riz importé,marmite,666.0
+2024-12,Nord-Est,Fort-Liberté,Riz local,marmite,844.0
+2024-12,Nord-Est,Fort-Liberté,Maïs moulu,marmite,440.0
+2024-12,Nord-Est,Fort-Liberté,Farine de blé,marmite,518.0
+2024-12,Nord-Est,Fort-Liberté,Haricot noir,marmite,1000.0
+2024-12,Nord-Est,Fort-Liberté,Huile végétale,gallon,1787.0
+2024-12,Nord-Est,Fort-Liberté,Spaghetti,paquet,97.0
+2024-12,Nord-Ouest,Port-de-Paix,Riz importé,marmite,678.0
+2024-12,Nord-Ouest,Port-de-Paix,Riz local,marmite,889.0
+2024-12,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,420.0
+2024-12,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,535.0
+2024-12,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,934 HTG
+2024-12,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,2012.0
+2024-12,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,98.0
+2024-12,Ouest,Croix-des-Bossales,Riz importé,marmite,641.0
+2024-12,Ouest,Croix-des-Bossales,Riz local,marmite,"790,0"
+2024-12,Ouest,Croix-des-Bossales,Maïs moulu,marmite,411.0
+2024-12,Ouest,Croix-des-Bossales,Farine de blé,marmite,480.0
+2024-12,Ouest,Croix-des-Bossales,Haricot noir,marmite,974.0
+2024-12,Ouest,Croix-des-Bossales,Huile végétale,gallon,1797.0
+2024-12,Ouest,Croix-des-Bossales,Sucre,marmite,572.0
+2024-12,Ouest,Croix-des-Bossales,Spaghetti,paquet,90.0
+2024-12,Ouest,Pétion-Ville,Riz importé,marmite,638.0
+2024-12,Ouest,Pétion-Ville,Riz local,marmite,817.0
+2024-12,Ouest,Pétion-Ville,Maïs moulu,marmite,402.0
+2024-12,Ouest,Pétion-Ville,Farine de blé,marmite,503.0
+2024-12,Ouest,Pétion-Ville,Haricot noir,marmite,937.0
+2024-12,Ouest,Pétion-Ville,Huile végétale,gallon,1667.0
+2024-12,Ouest,Pétion-Ville,Sucre,marmite,558.0
+2024-12,Ouest,Pétion-Ville,Spaghetti,paquet,94.0
+2024-12,Sud,Les Cayes,Riz importé,marmite,646.0
+2024-12,Sud,Les Cayes,Riz local,marmite,788.0
+2024-12,Sud,Les Cayes,Maïs moulu,marmite,422.0
+2024-12,Sud,Les Cayes,Haricot noir,marmite,987.0
+2024-12,Sud,Les Cayes,Huile végétale,gallon,1869.0
+2024-12,Sud,Les Cayes,Sucre,marmite,571.0
+2024-12,Sud,Les Cayes,Spaghetti,paquet,
+2024-12,Sud-Est,Jacmel,Riz importé,marmite,683.0
+2024-12,Sud-Est,Jacmel,Riz local,marmite,828.0
+2024-12,Sud-Est,Jacmel,Maïs moulu,marmite,437.0
+2024-12,Sud-Est,Jacmel,Farine de blé,marmite,536.0
+2024-12,Sud-Est,Jacmel,haricot noir ,marmite,1002.0
+2024-12,Sud-Est,Jacmel,Huile végétale,gallon,1822.0
+2024-12,Sud-Est,Jacmel,Sucre,marmite,586.0
+2024-12,Sud-Est,Jacmel,Spaghetti,paquet,98.0
+2024-12,centre,Hinche,Spaghetti,paquet,96.0
+2024-12,nippes,Miragoâne,Spaghetti,paquet,99.0
+2024-12,sud,Les Cayes,Farine de blé,marmite,546.0
+2025-01,Artibonite,Gonaïves,Riz importé,marmite,586.0
+2025-01,Artibonite,Gonaïves,Maïs moulu,marmite,392.0
+2025-01,Artibonite,Gonaïves,Farine de blé,marmite,474.0
+2025-01,Artibonite,Gonaïves,Haricot noir,marmite,958.0
+2025-01,Artibonite,Gonaïves,Huile végétale,gallon,1787.0
+2025-01,Artibonite,Gonaïves,Sucre,marmite,577.0
+2025-01,Artibonite,Gonaïves,Spaghetti,paquet,92.0
+2025-01,Artibonite,Saint-Marc,Riz importé,marmite,638.0
+2025-01,Artibonite,Saint-Marc,Riz local,marmite,766.0
+2025-01,Artibonite,Saint-Marc,Maïs moulu,marmite,406.0
+2025-01,Artibonite,Saint-Marc,Farine de blé,marmite,496.0
+2025-01,Artibonite,Saint-Marc,Haricot noir,marmite,901.0
+2025-01,Artibonite,Saint-Marc,Huile végétale,gallon,1747.0
+2025-01,Artibonite,Saint-Marc,Sucre,marmite,533.0
+2025-01,Artibonite,Saint-Marc,Spaghetti,paquet,91 HTG
+2025-01,Centre,Hinche,Riz importé,marmite,723.0
+2025-01,Centre,Hinche,Riz local,marmite,828.0
+2025-01,Centre,Hinche,Maïs moulu,marmite,431.0
+2025-01,Centre,Hinche,Farine de blé,marmite,
+2025-01,Centre,Hinche,Haricot noir,marmite,1025.0
+2025-01,Centre,Hinche,Huile végétale,gallon,1842 HTG
+2025-01,Centre,Hinche,Sucre,marmite,597 HTG
+2025-01,Centre,Hinche,Spaghetti,paquet,92.0
+2025-01,Grand Anse,Jérémie,Farine de blé,marmite,644.0
+2025-01,Grand'Anse,Jérémie,Riz importé,marmite,772.0
+2025-01,Grand'Anse,Jérémie,Riz local,marmite,876.0
+2025-01,Grand'Anse,Jérémie,Maïs moulu,marmite,487.0
+2025-01,Grand'Anse,Jérémie,Haricot noir,marmite,1084.0
+2025-01,Grand'Anse,Jérémie,Huile végétale,gallon,2293.0
+2025-01,Grand'Anse,Jérémie,Sucre,marmite,705.0
+2025-01,Grand'Anse,Jérémie,Spaghetti,paquet,119.0
+2025-01,Nippes,Miragoâne,Riz importé,marmite,696.0
+2025-01,Nippes,Miragoâne,Riz local,marmite,864.0
+2025-01,Nippes,Miragoâne,Maïs moulu,marmite,435.0
+2025-01,Nippes,Miragoâne,Farine de blé,marmite,544.0
+2025-01,Nippes,Miragoâne,Haricot noir,marmite,1013.0
+2025-01,Nippes,Miragoâne,Huile végétale,gallon,1951.0
+2025-01,Nippes,Miragoâne,Sucre,marmite,638.0
+2025-01,Nippes,Miragoâne,Spaghetti,paquet,96.0
+2025-01,Nord,Cap-Haïtien,Riz importé,marmite,680.0
+2025-01,Nord,Cap-Haïtien,Riz local,marmite,
+2025-01,Nord,Cap-Haïtien,Maïs moulu,marmite,433.0
+2025-01,Nord,Cap-Haïtien,Farine de blé,marmite,522.0
+2025-01,Nord,Cap-Haïtien,Haricot noir,marmite,980.0
+2025-01,Nord,Cap-Haïtien,Huile végétale,gallon,1869.0
+2025-01,Nord,Cap-Haïtien,Sucre,marmite,632.0
+2025-01,Nord,Cap-Haïtien,Spaghetti,paquet,92.0
+2025-01,Nord-Est,Fort-Liberté,Riz importé,marmite,669.0
+2025-01,Nord-Est,Fort-Liberté,Riz local,marmite,844.0
+2025-01,Nord-Est,Fort-Liberté,Maïs moulu,marmite,443.0
+2025-01,Nord-Est,Fort-Liberté,Farine de blé,marmite,525.0
+2025-01,Nord-Est,Fort-Liberté,Haricot noir,marmite,984.0
+2025-01,Nord-Est,Fort-Liberté,Huile végétale,gallon,1840.0
+2025-01,Nord-Est,Fort-Liberté,Sucre,marmite,624.0
+2025-01,Nord-Est,Fort-Liberté,spaghetti ,paquet,"98,0"
+2025-01,Nord-Ouest,Port-de-Paix,Riz importé,marmite,701.0
+2025-01,Nord-Ouest,Port-de-Paix,Riz local,marmite,950.0
+2025-01,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,471.0
+2025-01,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,629.0
+2025-01,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,1012.0
+2025-01,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,2032.0
+2025-01,Nord-Ouest,Port-de-Paix,Sucre,marmite,678.0
+2025-01,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,112.0
+2025-01,Ouest,Croix-des-Bossales,Riz importé,marmite,653.0
+2025-01,Ouest,Croix-des-Bossales,Riz local,marmite,786.0
+2025-01,Ouest,Croix-des-Bossales,Maïs moulu,marmite,427.0
+2025-01,Ouest,Croix-des-Bossales,Farine de blé,marmite,516.0
+2025-01,Ouest,Croix-des-Bossales,Haricot noir,marmite,921.0
+2025-01,Ouest,Croix-des-Bossales,Huile végétale,gallon,1824.0
+2025-01,Ouest,Croix-des-Bossales,Sucre,marmite,563.0
+2025-01,Ouest,Croix-des-Bossales,Spaghetti,paquet,85.0
+2025-01,Ouest,Pétion-Ville,Riz importé,marmite,628.0
+2025-01,Ouest,Pétion-Ville,Riz local,marmite,790.0
+2025-01,Ouest,Pétion-Ville,Maïs moulu,marmite,406.0
+2025-01,Ouest,Pétion-Ville,Farine de blé,marmite,485.0
+2025-01,Ouest,Pétion-Ville,Haricot noir,marmite,939.0
+2025-01,Ouest,Pétion-Ville,Huile végétale,gallon,1840.0
+2025-01,Ouest,Pétion-Ville,Sucre,marmite,552.0
+2025-01,Ouest,Pétion-Ville,Spaghetti,paquet,95.0
+2025-01,Sud,Les Cayes,Riz importé,marmite,724.0
+2025-01,Sud,Les Cayes,Riz local,marmite,811 HTG
+2025-01,Sud,Les Cayes,Maïs moulu,marmite,"424,0"
+2025-01,Sud,Les Cayes,Farine de blé,marmite,
+2025-01,Sud,Les Cayes,Haricot noir,marmite,1008.0
+2025-01,Sud,Les Cayes,Huile végétale,gallon,1884 HTG
+2025-01,Sud,Les Cayes,Sucre,marmite,603.0
+2025-01,Sud,Les Cayes,Spaghetti,paquet,102.0
+2025-01,Sud-Est,Jacmel,Riz importé,marmite,700.0
+2025-01,Sud-Est,Jacmel,Riz local,marmite,841.0
+2025-01,Sud-Est,Jacmel,Maïs moulu,marmite,453.0
+2025-01,Sud-Est,Jacmel,Farine de blé,marmite,545.0
+2025-01,Sud-Est,Jacmel,Haricot noir,marmite,1009.0
+2025-01,Sud-Est,Jacmel,Huile végétale,gallon,1981.0
+2025-01,Sud-Est,Jacmel,Sucre,marmite,590.0
+2025-01,Sud-Est,Jacmel,Spaghetti,paquet,100.0
+2025-01,Sud-Est,Jacmel,Huile végétale,gallon,1981.0
+2025-01,artibonite,Gonaïves,Riz local,marmite,790.0
+2025-02,Artibonite,Gonaïves,Riz importé,marmite,666.0
+2025-02,Artibonite,Gonaïves,Riz local,marmite,791.0
+2025-02,Artibonite,Gonaïves,Maïs moulu,marmite,433.0
+2025-02,Artibonite,Gonaïves,Farine de blé,marmite,578.0
+2025-02,Artibonite,Gonaïves,Haricot noir,marmite,
+2025-02,Artibonite,Gonaïves,Huile végétale,gallon,1859.0
+2025-02,Artibonite,Gonaïves,sucre ,marmite,563.0
+2025-02,Artibonite,Gonaïves,Spaghetti,paquet,92.0
+2025-02,Artibonite,Saint-Marc,Riz importé,marmite,
+2025-02,Artibonite,Saint-Marc,Riz local,marmite,869.0
+2025-02,Artibonite,Saint-Marc,Farine de blé,marmite,504.0
+2025-02,Artibonite,Saint-Marc,Haricot noir,marmite,926.0
+2025-02,Artibonite,Saint-Marc,Huile végétale,gallon,1786.0
+2025-02,Artibonite,Saint-Marc,Spaghetti,paquet,90.0
+2025-02,Centre,Hinche,Riz importé,marmite,678.0
+2025-02,Centre,Hinche,Riz local,marmite,843.0
+2025-02,Centre,Hinche,Maïs moulu,marmite,435.0
+2025-02,Centre,Hinche,Farine de blé,marmite,540.0
+2025-02,Centre,Hinche,Haricot noir,marmite,1012.0
+2025-02,Centre,Hinche,Huile végétale,gallon,1936.0
+2025-02,Centre,Hinche,Sucre,marmite,643.0
+2025-02,Centre,Hinche,Spaghetti,paquet,100.0
+2025-02,Grand'Anse,Jérémie,Riz importé,marmite,824.0
+2025-02,Grand'Anse,Jérémie,Riz local,marmite,968.0
+2025-02,Grand'Anse,Jérémie,Maïs moulu,marmite,518.0
+2025-02,Grand'Anse,Jérémie,Farine de blé,marmite,656.0
+2025-02,Grand'Anse,Jérémie,Haricot noir,marmite,1049.0
+2025-02,Grand'Anse,Jérémie,Huile végétale,gallon,2279.0
+2025-02,Grand'Anse,Jérémie,Sucre,marmite,694.0
+2025-02,Grand'Anse,Jérémie,Spaghetti,paquet,114.0
+2025-02,Nippes,Miragoâne,Riz importé,marmite,694.0
+2025-02,Nippes,Miragoâne,Riz local,marmite,887.0
+2025-02,Nippes,Miragoâne,Maïs moulu,marmite,414.0
+2025-02,Nippes,Miragoâne,Farine de blé,marmite,579 HTG
+2025-02,Nippes,Miragoâne,Haricot noir,marmite,1056 HTG
+2025-02,Nippes,Miragoâne,Huile végétale,gallon,2055.0
+2025-02,Nippes,Miragoâne,Sucre,marmite,625.0
+2025-02,Nippes,Miragoâne,Spaghetti,paquet,105.0
+2025-02,Nord,Cap-Haïtien,Riz importé,marmite,678.0
+2025-02,Nord,Cap-Haïtien,Riz local,marmite,883.0
+2025-02,Nord,Cap-Haïtien,Maïs moulu,marmite,438.0
+2025-02,Nord,Cap-Haïtien,Farine de blé,marmite,533.0
+2025-02,Nord,Cap-Haïtien,Haricot noir,marmite,974.0
+2025-02,Nord,Cap-Haïtien,Huile végétale,gallon,2009.0
+2025-02,Nord,Cap-Haïtien,Sucre,marmite,592.0
+2025-02,Nord,Cap-Haïtien,Spaghetti,paquet,100.0
+2025-02,Nord Est,Fort-Liberté,Huile végétale,gallon,1917.0
+2025-02,Nord-Est,Fort-Liberté,Riz importé,marmite,761.0
+2025-02,Nord-Est,Fort-Liberté,Riz local,marmite,870.0
+2025-02,Nord-Est,Fort-Liberté,Maïs moulu,marmite,443.0
+2025-02,Nord-Est,Fort-Liberté,Farine de blé,marmite,591.0
+2025-02,Nord-Est,Fort-Liberté,Haricot noir,marmite,1049.0
+2025-02,Nord-Est,Fort-Liberté,Sucre,marmite,635.0
+2025-02,Nord-Est,Fort-Liberté,Spaghetti,paquet,98.0
+2025-02,Nord-Ouest,Port-de-Paix,Riz importé,marmite,825.0
+2025-02,Nord-Ouest,Port-de-Paix,riz local ,marmite,894.0
+2025-02,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,476.0
+2025-02,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,638.0
+2025-02,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,"1076,0"
+2025-02,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,2101.0
+2025-02,Nord-Ouest,Port-de-Paix,Sucre,marmite,676.0
+2025-02,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,117.0
+2025-02,Nord-Ouest,Port-de-Paix,riz local ,marmite,894.0
+2025-02,Ouest,Croix-des-Bossales,Riz importé,marmite,677.0
+2025-02,Ouest,Croix-des-Bossales,Riz local,marmite,796.0
+2025-02,Ouest,Croix-des-Bossales,Maïs moulu,marmite,450.0
+2025-02,Ouest,Croix-des-Bossales,Farine de blé,marmite,499.0
+2025-02,Ouest,Croix-des-Bossales,Haricot noir,marmite,992.0
+2025-02,Ouest,Croix-des-Bossales,Huile végétale,gallon,1855.0
+2025-02,Ouest,Croix-des-Bossales,Sucre,marmite,585.0
+2025-02,Ouest,Croix-des-Bossales,Spaghetti,paquet,100.0
+2025-02,Ouest,Pétion-Ville,Riz importé,marmite,687.0
+2025-02,Ouest,Pétion-Ville,Riz local,marmite,803.0
+2025-02,Ouest,Pétion-Ville,Maïs moulu,marmite,435.0
+2025-02,Ouest,Pétion-Ville,Farine de blé,marmite,537.0
+2025-02,Ouest,Pétion-Ville,Haricot noir,marmite,961.0
+2025-02,Ouest,Pétion-Ville,Huile végétale,gallon,1787.0
+2025-02,Ouest,Pétion-Ville,Sucre,marmite,613.0
+2025-02,Ouest,Pétion-Ville,Spaghetti,paquet,100.0
+2025-02,Sud,Les Cayes,Riz importé,marmite,726.0
+2025-02,Sud,Les Cayes,Riz local,marmite,879.0
+2025-02,Sud,Les Cayes,Maïs moulu,marmite,450.0
+2025-02,Sud,Les Cayes,Farine de blé,marmite,559.0
+2025-02,Sud,Les Cayes,Haricot noir,marmite,991.0
+2025-02,Sud,Les Cayes,huile végétale ,gallon,1906.0
+2025-02,Sud,Les Cayes,Spaghetti,paquet,91.0
+2025-02,Sud-Est,Jacmel,Riz local,marmite,864.0
+2025-02,Sud-Est,Jacmel,Maïs moulu,marmite,439.0
+2025-02,Sud-Est,Jacmel,Farine de blé,marmite,560 HTG
+2025-02,Sud-Est,Jacmel,Haricot noir,marmite,10560.0
+2025-02,Sud-Est,Jacmel,Huile végétale,gallon,2104.0
+2025-02,Sud-Est,Jacmel,Sucre,marmite,626.0
+2025-02,Sud-Est,Jacmel,Spaghetti,paquet,102.0
+2025-02,artibonite,Saint-Marc,Maïs moulu,marmite,412.0
+2025-02,artibonite,Saint-Marc,Sucre,marmite,580.0
+2025-02,sud,Les Cayes,Sucre,marmite,610.0
+2025-02,sud-est,Jacmel,Riz importé,marmite,707.0
+2025-03, Ouest,Pétion-Ville,Haricot noir,marmite,1010.0
+2025-03,Artibonite,Gonaïves,Riz importé,marmite,695.0
+2025-03,Artibonite,Gonaïves,Riz local,marmite,752.0
+2025-03,Artibonite,Gonaïves,Maïs moulu,marmite,414.0
+2025-03,Artibonite,Gonaïves,Farine de blé,marmite,526.0
+2025-03,Artibonite,Gonaïves,Haricot noir,marmite,975.0
+2025-03,Artibonite,Gonaïves,Huile végétale,gallon,1876.0
+2025-03,Artibonite,Gonaïves,Sucre,marmite,596.0
+2025-03,Artibonite,Gonaïves,Spaghetti,paquet,96.0
+2025-03,Artibonite,Gonaïves,Haricot noir,marmite,975.0
+2025-03,Artibonite,Saint-Marc,Riz importé,marmite,668.0
+2025-03,Artibonite,Saint-Marc,Riz local,marmite,784.0
+2025-03,Artibonite,Saint-Marc,Farine de blé,marmite,565.0
+2025-03,Artibonite,Saint-Marc,Huile végétale,gallon,1900.0
+2025-03,Artibonite,Saint-Marc,Sucre,marmite,585.0
+2025-03,Artibonite,Saint-Marc,spaghetti ,paquet,107.0
+2025-03,Centre,Hinche,Riz importé,marmite,723.0
+2025-03,Centre,Hinche,Riz local,marmite,956.0
+2025-03,Centre,Hinche,Maïs moulu,marmite,435.0
+2025-03,Centre,Hinche,Farine de blé,marmite,553.0
+2025-03,Centre,Hinche,Haricot noir,marmite,1036.0
+2025-03,Centre,Hinche,Huile végétale,gallon,1915.0
+2025-03,Centre,Hinche,Sucre,marmite,606.0
+2025-03,Centre,Hinche,Spaghetti,paquet,98.0
+2025-03,Grand'Anse,Jérémie,Riz importé,marmite,835.0
+2025-03,Grand'Anse,Jérémie,Riz local,marmite,957.0
+2025-03,Grand'Anse,Jérémie,Maïs moulu,marmite,
+2025-03,Grand'Anse,Jérémie,farine de blé ,marmite,700.0
+2025-03,Grand'Anse,Jérémie,Haricot noir,marmite,1164.0
+2025-03,Grand'Anse,Jérémie,Huile végétale,gallon,2435 HTG
+2025-03,Grand'Anse,Jérémie,Sucre,marmite,808.0
+2025-03,Grand'Anse,Jérémie,Spaghetti,paquet,122.0
+2025-03,Nippes,Miragoâne,Riz importé,marmite,675.0
+2025-03,Nippes,Miragoâne,Riz local,marmite,943.0
+2025-03,Nippes,Miragoâne,Maïs moulu,marmite,494.0
+2025-03,Nippes,Miragoâne,Farine de blé,marmite,563.0
+2025-03,Nippes,Miragoâne,Haricot noir,marmite,1111.0
+2025-03,Nippes,Miragoâne,Huile végétale,gallon,2053.0
+2025-03,Nippes,Miragoâne,Sucre,marmite,661.0
+2025-03,Nippes,Miragoâne,Spaghetti,paquet,105.0
+2025-03,Nippes,Miragoâne,Maïs moulu,marmite,494.0
+2025-03,Nord,Cap-Haïtien,Riz importé,marmite,702.0
+2025-03,Nord,Cap-Haïtien,Riz local,marmite,938.0
+2025-03,Nord,Cap-Haïtien,Maïs moulu,marmite,466 HTG
+2025-03,Nord,Cap-Haïtien,Farine de blé,marmite,554.0
+2025-03,Nord,Cap-Haïtien,Haricot noir,marmite,1030.0
+2025-03,Nord,Cap-Haïtien,Huile végétale,gallon,1994.0
+2025-03,Nord,Cap-Haïtien,Sucre,marmite,628.0
+2025-03,Nord,Cap-Haïtien,Spaghetti,paquet,99.0
+2025-03,Nord,Cap-Haïtien,Farine de blé,marmite,554.0
+2025-03,Nord,Cap-Haïtien,Maïs moulu,marmite,466 HTG
+2025-03,Nord,Cap-Haïtien,Sucre,marmite,628.0
+2025-03,Nord-Est,Fort-Liberté,Riz importé,marmite,718.0
+2025-03,Nord-Est,Fort-Liberté,Riz local,marmite,933.0
+2025-03,Nord-Est,Fort-Liberté,Maïs moulu,marmite,484.0
+2025-03,Nord-Est,Fort-Liberté,Farine de blé,marmite,584.0
+2025-03,Nord-Est,Fort-Liberté,Haricot noir,marmite,1081.0
+2025-03,Nord-Est,Fort-Liberté,Huile végétale,gallon,2233.0
+2025-03,Nord-Est,Fort-Liberté,Sucre,marmite,653.0
+2025-03,Nord-Est,Fort-Liberté,Spaghetti,paquet,104.0
+2025-03,Nord-Ouest,Port-de-Paix,Riz importé,marmite,835.0
+2025-03,Nord-Ouest,Port-de-Paix,Riz local,marmite,935.0
+2025-03,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,494.0
+2025-03,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,626.0
+2025-03,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,1096.0
+2025-03,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,2406.0
+2025-03,Nord-Ouest,Port-de-Paix,Sucre,marmite,759.0
+2025-03,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,114.0
+2025-03,Ouest,Croix-des-Bossales,Riz importé,marmite,680.0
+2025-03,Ouest,Croix-des-Bossales,Riz local,marmite,839.0
+2025-03,Ouest,Croix-des-Bossales,Maïs moulu,marmite,449.0
+2025-03,Ouest,Croix-des-Bossales,Farine de blé,marmite,556.0
+2025-03,Ouest,Croix-des-Bossales,Haricot noir,marmite,1030.0
+2025-03,Ouest,Croix-des-Bossales,Huile végétale,gallon,2058.0
+2025-03,Ouest,Croix-des-Bossales,Sucre,marmite,617.0
+2025-03,Ouest,Croix-des-Bossales,Spaghetti,paquet,103.0
+2025-03,Ouest,Pétion-Ville,Riz importé,marmite,713.0
+2025-03,Ouest,Pétion-Ville,Riz local,marmite,872.0
+2025-03,Ouest,Pétion-Ville,Maïs moulu,marmite,454.0
+2025-03,Ouest,Pétion-Ville,Farine de blé,marmite,
+2025-03,Ouest,Pétion-Ville,Huile végétale,gallon,2041.0
+2025-03,Ouest,Pétion-Ville,Sucre,marmite,617.0
+2025-03,Ouest,Pétion-Ville,Spaghetti,paquet,
+2025-03,Sud,Les Cayes,riz importé ,marmite,744.0
+2025-03,Sud,Les Cayes,Riz local,marmite,
+2025-03,Sud,Les Cayes,Maïs moulu,marmite,477.0
+2025-03,Sud,Les Cayes,Farine de blé,marmite,574 HTG
+2025-03,Sud,Les Cayes,Haricot noir,marmite,
+2025-03,Sud,Les Cayes,Huile végétale,gallon,2051.0
+2025-03,Sud,Les Cayes,Sucre,marmite,639.0
+2025-03,Sud,Les Cayes,Spaghetti,paquet,105.0
+2025-03,Sud,Les Cayes,riz importé ,marmite,744.0
+2025-03,Sud,Les Cayes,Sucre,marmite,639.0
+2025-03,Sud-Est,Jacmel,Riz importé,marmite,760.0
+2025-03,Sud-Est,Jacmel,Riz local,marmite,892.0
+2025-03,Sud-Est,Jacmel,Maïs moulu,marmite,451.0
+2025-03,Sud-Est,Jacmel,Farine de blé,marmite,597.0
+2025-03,Sud-Est,Jacmel,Haricot noir,marmite,1114.0
+2025-03,Sud-Est,Jacmel,Huile végétale,gallon,1880.0
+2025-03,Sud-Est,Jacmel,Sucre,marmite,673.0
+2025-03,Sud-Est,Jacmel,Spaghetti,paquet,105.0
+2025-03,artibonite,Saint-Marc,Maïs moulu,marmite,463.0
+2025-03,artibonite,Saint-Marc,Haricot noir,marmite,1030.0
+2025-04,Artibonite,Gonaïves,Riz importé,marmite,723.0
+2025-04,Artibonite,Gonaïves,Riz local,marmite,830.0
+2025-04,Artibonite,Gonaïves,Maïs moulu,marmite,440.0
+2025-04,Artibonite,Gonaïves,Farine de blé,marmite,596.0
+2025-04,Artibonite,Gonaïves,Haricot noir,marmite,1076.0
+2025-04,Artibonite,Gonaïves,Huile végétale,gallon,1908.0
+2025-04,Artibonite,Gonaïves,Sucre,marmite,621.0
+2025-04,Artibonite,Gonaïves,Spaghetti,paquet,105.0
+2025-04,Artibonite,Saint-Marc,Riz importé,marmite,707.0
+2025-04,Artibonite,Saint-Marc,Riz local,marmite,869.0
+2025-04,Artibonite,Saint-Marc,Maïs moulu,marmite,434.0
+2025-04,Artibonite,Saint-Marc,Farine de blé,marmite,571.0
+2025-04,Artibonite,Saint-Marc,Haricot noir,marmite,1064.0
+2025-04,Artibonite,Saint-Marc,Huile végétale,gallon,1928.0
+2025-04,Artibonite,Saint-Marc,Sucre,marmite,585.0
+2025-04,Artibonite,Saint-Marc,Spaghetti,paquet,109.0
+2025-04,Centre,Hinche,riz importé ,marmite,751.0
+2025-04,Centre,Hinche,Maïs moulu,marmite,469.0
+2025-04,Centre,Hinche,Farine de blé,marmite,
+2025-04,Centre,Hinche,Haricot noir,marmite,1071.0
+2025-04,Centre,Hinche,Huile végétale,gallon,2034.0
+2025-04,Centre,Hinche,Sucre,marmite,624.0
+2025-04,Centre,Hinche,Spaghetti,paquet,108.0
+2025-04,Grand'Anse,Jérémie,Riz importé,marmite,901.0
+2025-04,Grand'Anse,Jérémie,Riz local,marmite,1044.0
+2025-04,Grand'Anse,Jérémie,Maïs moulu,marmite,521.0
+2025-04,Grand'Anse,Jérémie,Farine de blé,marmite,725.0
+2025-04,Grand'Anse,Jérémie,haricot noir ,marmite,1197.0
+2025-04,Grand'Anse,Jérémie,Huile végétale,gallon,2437.0
+2025-04,Grand'Anse,Jérémie,Sucre,marmite,829.0
+2025-04,Grand'Anse,Jérémie,Spaghetti,paquet,131.0
+2025-04,Nippes,Miragoâne,Riz importé,marmite,737.0
+2025-04,Nippes,Miragoâne,Riz local,marmite,913.0
+2025-04,Nippes,Miragoâne,Maïs moulu,marmite,478.0
+2025-04,Nippes,Miragoâne,Farine de blé,marmite,624.0
+2025-04,Nippes,Miragoâne,Haricot noir,marmite,1149.0
+2025-04,Nippes,Miragoâne,Huile végétale,gallon,2092.0
+2025-04,Nippes,Miragoâne,Sucre,marmite,672.0
+2025-04,Nippes,Miragoâne,Spaghetti,paquet,114.0
+2025-04,Nord,Cap-Haïtien,Riz importé,marmite,
+2025-04,Nord,Cap-Haïtien,Riz local,marmite,943.0
+2025-04,Nord,Cap-Haïtien,Maïs moulu,marmite,465.0
+2025-04,Nord,Cap-Haïtien,Farine de blé,marmite,580.0
+2025-04,Nord,Cap-Haïtien,Haricot noir,marmite,1141.0
+2025-04,Nord,Cap-Haïtien,Huile végétale,gallon,2083.0
+2025-04,Nord,Cap-Haïtien,Sucre,marmite,686.0
+2025-04,Nord,Cap-Haïtien,Spaghetti,paquet,112.0
+2025-04,Nord,Cap-Haïtien,Riz importé,marmite,
+2025-04,Nord-Est,Fort-Liberté,Riz importé,marmite,782.0
+2025-04,Nord-Est,Fort-Liberté,Riz local,marmite,898.0
+2025-04,Nord-Est,Fort-Liberté,Maïs moulu,marmite,470.0
+2025-04,Nord-Est,Fort-Liberté,Farine de blé,marmite,578.0
+2025-04,Nord-Est,Fort-Liberté,Haricot noir,marmite,1136.0
+2025-04,Nord-Est,Fort-Liberté,Huile végétale,gallon,2169.0
+2025-04,Nord-Est,Fort-Liberté,Sucre,marmite,699.0
+2025-04,Nord-Est,Fort-Liberté,Spaghetti,paquet,116 HTG
+2025-04,Nord-Est,Fort-Liberté,Farine de blé,marmite,578.0
+2025-04,Nord-Ouest,Port-de-Paix,Riz importé,marmite,859.0
+2025-04,Nord-Ouest,Port-de-Paix,Riz local,marmite,1025.0
+2025-04,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,510.0
+2025-04,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,708.0
+2025-04,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,1131.0
+2025-04,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,2463.0
+2025-04,Nord-Ouest,Port-de-Paix,Sucre,marmite,791.0
+2025-04,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,129.0
+2025-04,OUEST,Croix-des-Bossales,Maïs moulu,marmite,457.0
+2025-04,Ouest,Croix-des-Bossales,Riz importé,marmite,732.0
+2025-04,Ouest,Croix-des-Bossales,Riz local,marmite,929 HTG
+2025-04,Ouest,Croix-des-Bossales,Farine de blé,marmite,564.0
+2025-04,Ouest,Croix-des-Bossales,Haricot noir,marmite,1033.0
+2025-04,Ouest,Croix-des-Bossales,Huile végétale,gallon,2124.0
+2025-04,Ouest,Croix-des-Bossales,Sucre,marmite,629.0
+2025-04,Ouest,Croix-des-Bossales,Spaghetti,paquet,108.0
+2025-04,Ouest,Pétion-Ville,Riz importé,marmite,701.0
+2025-04,Ouest,Pétion-Ville,Riz local,marmite,835.0
+2025-04,Ouest,Pétion-Ville,Maïs moulu,marmite,456.0
+2025-04,Ouest,Pétion-Ville,Farine de blé,marmite,583.0
+2025-04,Ouest,Pétion-Ville,Haricot noir,marmite,1112.0
+2025-04,Ouest,Pétion-Ville,Huile végétale,gallon,2101.0
+2025-04,Ouest,Pétion-Ville,Sucre,marmite,656.0
+2025-04,Ouest,Pétion-Ville,Spaghetti,paquet,96.0
+2025-04,Sud,Les Cayes,Riz importé,marmite,749.0
+2025-04,Sud,Les Cayes,Riz local,marmite,948.0
+2025-04,Sud,Les Cayes,Maïs moulu,marmite,497.0
+2025-04,Sud,Les Cayes,Farine de blé,marmite,628.0
+2025-04,Sud,Les Cayes,Haricot noir,marmite,1105.0
+2025-04,Sud,Les Cayes,Huile végétale,gallon,2128.0
+2025-04,Sud,Les Cayes,Sucre,marmite,653.0
+2025-04,Sud,Les Cayes,Spaghetti,paquet,
+2025-04,Sud-Est,Jacmel,Riz importé,marmite,763.0
+2025-04,Sud-Est,Jacmel,Riz local,marmite,919.0
+2025-04,Sud-Est,Jacmel,Maïs moulu,marmite,518.0
+2025-04,Sud-Est,Jacmel,Farine de blé,marmite,604.0
+2025-04,Sud-Est,Jacmel,Haricot noir,marmite,1080.0
+2025-04,Sud-Est,Jacmel,Huile végétale,gallon,2134.0
+2025-04,Sud-Est,Jacmel,Sucre,marmite,690.0
+2025-04,Sud-Est,Jacmel,Spaghetti,paquet,108.0
+2025-04,centre,Hinche,Riz local,marmite,878.0
+2025-05,Artibonite,Gonaïves,Riz importé,marmite,694.0
+2025-05,Artibonite,Gonaïves,Riz local,marmite,895.0
+2025-05,Artibonite,Gonaïves,Maïs moulu,marmite,"486,0"
+2025-05,Artibonite,Gonaïves,Farine de blé,marmite,573.0
+2025-05,Artibonite,Gonaïves,Haricot noir,marmite,1109.0
+2025-05,Artibonite,Gonaïves,Huile végétale,gallon,2083.0
+2025-05,Artibonite,Gonaïves,Sucre,marmite,623.0
+2025-05,Artibonite,Gonaïves,Spaghetti,paquet,108.0
+2025-05,Artibonite,Saint-Marc,Riz importé,marmite,739.0
+2025-05,Artibonite,Saint-Marc,Riz local,marmite,892.0
+2025-05,Artibonite,Saint-Marc,Maïs moulu,marmite,446.0
+2025-05,Artibonite,Saint-Marc,Farine de blé,marmite,615.0
+2025-05,Artibonite,Saint-Marc,Haricot noir,marmite,1046.0
+2025-05,Artibonite,Saint-Marc,Huile végétale,gallon,1914.0
+2025-05,Artibonite,Saint-Marc,Sucre,marmite,673.0
+2025-05,Artibonite,Saint-Marc,Spaghetti,paquet,105.0
+2025-05,Centre,Hinche,Riz importé,marmite,861.0
+2025-05,Centre,Hinche,Riz local,marmite,
+2025-05,Centre,Hinche,Maïs moulu,marmite,480.0
+2025-05,Centre,Hinche,Farine de blé,marmite,625.0
+2025-05,Centre,Hinche,Haricot noir,marmite,1119.0
+2025-05,Centre,Hinche,Sucre,marmite,656.0
+2025-05,Centre,Hinche,Spaghetti,paquet,105.0
+2025-05,Grand'Anse,Jérémie,Riz importé,marmite,848.0
+2025-05,Grand'Anse,Jérémie,Riz local,marmite,1015.0
+2025-05,Grand'Anse,Jérémie,Maïs moulu,marmite,551.0
+2025-05,Grand'Anse,Jérémie,Farine de blé,marmite,684.0
+2025-05,Grand'Anse,Jérémie,Haricot noir,marmite,1255.0
+2025-05,Grand'Anse,Jérémie,Huile végétale,gallon,
+2025-05,Grand'Anse,Jérémie,Spaghetti,paquet,132.0
+2025-05,Grande-Anse,Jérémie,Sucre,marmite,799.0
+2025-05,NORD,Cap-Haïtien,Farine de blé,marmite,632.0
+2025-05,NORD,Cap-Haïtien,Spaghetti,paquet,110.0
+2025-05,Nippes,Miragoâne,Riz importé,marmite,825.0
+2025-05,Nippes,Miragoâne,Riz local,marmite,969.0
+2025-05,Nippes,Miragoâne,Maïs moulu,marmite,524.0
+2025-05,Nippes,Miragoâne,Farine de blé,marmite,631.0
+2025-05,Nippes,Miragoâne,Huile végétale,gallon,2270.0
+2025-05,Nippes,Miragoâne,Sucre,marmite,696.0
+2025-05,Nippes,Miragoâne,Spaghetti,paquet,114.0
+2025-05,Nord,Cap-Haïtien,Riz importé,marmite,817.0
+2025-05,Nord,Cap-Haïtien,Riz local,marmite,962.0
+2025-05,Nord,Cap-Haïtien,Maïs moulu,marmite,498.0
+2025-05,Nord,Cap-Haïtien,Haricot noir,marmite,1152.0
+2025-05,Nord,Cap-Haïtien,Huile végétale,gallon,2197.0
+2025-05,Nord,Cap-Haïtien,Sucre,marmite,721.0
+2025-05,Nord-Est,Fort-Liberté,Riz importé,marmite,828.0
+2025-05,Nord-Est,Fort-Liberté,Riz local,marmite,992.0
+2025-05,Nord-Est,Fort-Liberté,Maïs moulu,marmite,530.0
+2025-05,Nord-Est,Fort-Liberté,Farine de blé,marmite,654.0
+2025-05,Nord-Est,Fort-Liberté,Haricot noir,marmite,1244.0
+2025-05,Nord-Est,Fort-Liberté,Huile végétale,gallon,2219 HTG
+2025-05,Nord-Est,Fort-Liberté,Sucre,marmite,719.0
+2025-05,Nord-Est,Fort-Liberté,Spaghetti,paquet,112.0
+2025-05,Nord-Ouest,Port-de-Paix,Riz importé,marmite,888.0
+2025-05,Nord-Ouest,Port-de-Paix,Riz local,marmite,1056.0
+2025-05,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,531.0
+2025-05,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,
+2025-05,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,1214.0
+2025-05,Nord-Ouest,Port-de-Paix,huile végétale ,gallon,2541.0
+2025-05,Nord-Ouest,Port-de-Paix,Sucre,marmite,775.0
+2025-05,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,124.0
+2025-05,Ouest,Croix-des-Bossales,Riz importé,marmite,763.0
+2025-05,Ouest,Croix-des-Bossales,Riz local,marmite,970.0
+2025-05,Ouest,Croix-des-Bossales,Maïs moulu,marmite,470.0
+2025-05,Ouest,Croix-des-Bossales,Farine de blé,marmite,597.0
+2025-05,Ouest,Croix-des-Bossales,Haricot noir,marmite,1074.0
+2025-05,Ouest,Croix-des-Bossales,Huile végétale,gallon,2208.0
+2025-05,Ouest,Croix-des-Bossales,Sucre,marmite,698.0
+2025-05,Ouest,Pétion-Ville,Riz importé,marmite,787.0
+2025-05,Ouest,Pétion-Ville,Riz local,marmite,982.0
+2025-05,Ouest,Pétion-Ville,Maïs moulu,marmite,508.0
+2025-05,Ouest,Pétion-Ville,Farine de blé,marmite,636.0
+2025-05,Ouest,Pétion-Ville,Haricot noir,marmite,1085.0
+2025-05,Ouest,Pétion-Ville,Huile végétale,gallon,2065.0
+2025-05,Ouest,Pétion-Ville,Sucre,marmite,704.0
+2025-05,Ouest,Pétion-Ville,Spaghetti,paquet,108.0
+2025-05,Sud,Les Cayes,Riz importé,marmite,808.0
+2025-05,Sud,Les Cayes,Riz local,marmite,985.0
+2025-05,Sud,Les Cayes,Maïs moulu,marmite,475.0
+2025-05,Sud,Les Cayes,Farine de blé,marmite,
+2025-05,Sud,Les Cayes,Haricot noir,marmite,1189.0
+2025-05,Sud,Les Cayes,Huile végétale,gallon,2329.0
+2025-05,Sud,Les Cayes,Sucre,marmite,690.0
+2025-05,Sud-Est,Jacmel,Riz importé,marmite,766.0
+2025-05,Sud-Est,Jacmel,Riz local,marmite,957.0
+2025-05,Sud-Est,Jacmel,Maïs moulu,marmite,543.0
+2025-05,Sud-Est,Jacmel,Farine de blé,marmite,603.0
+2025-05,Sud-Est,Jacmel,Haricot noir,marmite,1133.0
+2025-05,Sud-Est,Jacmel,Huile végétale,gallon,2338.0
+2025-05,Sud-Est,Jacmel,Sucre,marmite,
+2025-05,Sud-Est,Jacmel,spaghetti ,paquet,118.0
+2025-05,Sud-Est,Jacmel,spaghetti ,paquet,118.0
+2025-05,centre,Hinche,Huile végétale,gallon,2199.0
+2025-05,nippes,Miragoâne,Haricot noir,marmite,1173.0
+2025-05,ouest,Croix-des-Bossales,Spaghetti,paquet,112.0
+2025-05,sud,Les Cayes,Spaghetti,paquet,110.0
+2025-06,Artibonite,Gonaïves,Riz importé,marmite,780.0
+2025-06,Artibonite,Gonaïves,Riz local,marmite,943.0
+2025-06,Artibonite,Gonaïves,Maïs moulu,marmite,497.0
+2025-06,Artibonite,Gonaïves,Farine de blé,marmite,588.0
+2025-06,Artibonite,Gonaïves,Haricot noir,marmite,1126.0
+2025-06,Artibonite,Gonaïves,Huile végétale,gallon,2058.0
+2025-06,Artibonite,Gonaïves,Sucre,marmite,663.0
+2025-06,Artibonite,Gonaïves,Spaghetti,paquet,109.0
+2025-06,Artibonite,Saint-Marc,Riz importé,marmite,743.0
+2025-06,Artibonite,Saint-Marc,Riz local,marmite,918.0
+2025-06,Artibonite,Saint-Marc,Maïs moulu,marmite,461.0
+2025-06,Artibonite,Saint-Marc,Farine de blé,marmite,596.0
+2025-06,Artibonite,Saint-Marc,Haricot noir,marmite,1166.0
+2025-06,Artibonite,Saint-Marc,sucre ,marmite,652.0
+2025-06,Artibonite ,Saint-Marc,Huile végétale,gallon,2327.0
+2025-06,Centre,Hinche,Riz importé,marmite,808.0
+2025-06,Centre,Hinche,Riz local,marmite,987.0
+2025-06,Centre,Hinche,Maïs moulu,marmite,512.0
+2025-06,Centre,Hinche,Farine de blé,marmite,638.0
+2025-06,Centre,Hinche,Haricot noir,marmite,1210.0
+2025-06,Centre,Hinche,Huile végétale,gallon,2236.0
+2025-06,Centre,Hinche,Sucre,marmite,702.0
+2025-06,Centre,Hinche,Spaghetti,paquet,117.0
+2025-06,Grand'Anse,Jérémie,Riz importé,marmite,910.0
+2025-06,Grand'Anse,Jérémie,Riz local,marmite,1120.0
+2025-06,Grand'Anse,Jérémie,Maïs moulu,marmite,551.0
+2025-06,Grand'Anse,Jérémie,Farine de blé,marmite,758.0
+2025-06,Grand'Anse,Jérémie,Haricot noir,marmite,1208.0
+2025-06,Grand'Anse,Jérémie,Huile végétale,gallon,2586.0
+2025-06,Grand'Anse,Jérémie,Sucre,marmite,884.0
+2025-06,Grand'Anse,Jérémie,Spaghetti,paquet,132.0
+2025-06,NORD,Cap-Haïtien,Haricot noir,marmite,1189.0
+2025-06,Nippes,Miragoâne,Riz importé,marmite,840.0
+2025-06,Nippes,Miragoâne,Riz local,marmite,958.0
+2025-06,Nippes,Miragoâne,Maïs moulu,marmite,507.0
+2025-06,Nippes,Miragoâne,Farine de blé,marmite,684.0
+2025-06,Nippes,Miragoâne,Haricot noir,marmite,1218.0
+2025-06,Nippes,Miragoâne,Huile végétale,gallon,2353.0
+2025-06,Nippes,Miragoâne,Sucre,marmite,777.0
+2025-06,Nippes,Miragoâne,Spaghetti,paquet,
+2025-06,Nord,Cap-Haïtien,Riz importé,marmite,815.0
+2025-06,Nord,Cap-Haïtien,Riz local,marmite,1009.0
+2025-06,Nord,Cap-Haïtien,Maïs moulu,marmite,488.0
+2025-06,Nord,Cap-Haïtien,Farine de blé,marmite,584.0
+2025-06,Nord,Cap-Haïtien,Huile végétale,gallon,2353.0
+2025-06,Nord,Cap-Haïtien,Sucre,marmite,749.0
+2025-06,Nord,Cap-Haïtien,Spaghetti,paquet,116.0
+2025-06,Nord-Est,Fort-Liberté,Riz importé,marmite,838.0
+2025-06,Nord-Est,Fort-Liberté,Riz local,marmite,1096.0
+2025-06,Nord-Est,Fort-Liberté,Maïs moulu,marmite,526.0
+2025-06,Nord-Est,Fort-Liberté,Farine de blé,marmite,689.0
+2025-06,Nord-Est,Fort-Liberté,Haricot noir,marmite,1175.0
+2025-06,Nord-Est,Fort-Liberté,Huile végétale,gallon,2275.0
+2025-06,Nord-Est,Fort-Liberté,Sucre,marmite,732.0
+2025-06,Nord-Est,Fort-Liberté,Spaghetti,paquet,117.0
+2025-06,Nord-Ouest,Port-de-Paix,Riz local,marmite,995.0
+2025-06,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,568.0
+2025-06,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,777.0
+2025-06,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,1259.0
+2025-06,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,2649.0
+2025-06,Nord-Ouest,Port-de-Paix,Sucre,marmite,801.0
+2025-06,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,137.0
+2025-06,Ouest,Croix-des-Bossales,Riz importé,marmite,766.0
+2025-06,Ouest,Croix-des-Bossales,Riz local,marmite,945.0
+2025-06,Ouest,Croix-des-Bossales,Maïs moulu,marmite,508.0
+2025-06,Ouest,Croix-des-Bossales,Farine de blé,marmite,609.0
+2025-06,Ouest,Croix-des-Bossales,Haricot noir,marmite,1121.0
+2025-06,Ouest,Croix-des-Bossales,Huile végétale,gallon,2245.0
+2025-06,Ouest,Croix-des-Bossales,Sucre,marmite,709 HTG
+2025-06,Ouest,Croix-des-Bossales,Spaghetti,paquet,112.0
+2025-06,Ouest,Pétion-Ville,Riz importé,marmite,850.0
+2025-06,Ouest,Pétion-Ville,Riz local,marmite,928.0
+2025-06,Ouest,Pétion-Ville,maïs moulu ,marmite,525.0
+2025-06,Ouest,Pétion-Ville,Farine de blé,marmite,623.0
+2025-06,Ouest,Pétion-Ville,Haricot noir,marmite,
+2025-06,Ouest,Pétion-Ville,Huile végétale,gallon,2159.0
+2025-06,Ouest,Pétion-Ville,Sucre,marmite,720.0
+2025-06,Ouest,Pétion-Ville,Spaghetti,paquet,109.0
+2025-06,Sud,Les Cayes,Riz importé,marmite,854.0
+2025-06,Sud,Les Cayes,Riz local,marmite,996.0
+2025-06,Sud,Les Cayes,Maïs moulu,marmite,491.0
+2025-06,Sud,Les Cayes,Farine de blé,marmite,639.0
+2025-06,Sud,Les Cayes,Haricot noir,marmite,1233.0
+2025-06,Sud,Les Cayes,Huile végétale,gallon,2280.0
+2025-06,Sud,Les Cayes,Sucre,marmite,706.0
+2025-06,Sud,Les Cayes,Spaghetti,paquet,118.0
+2025-06,Sud,Les Cayes,Haricot noir,marmite,1233.0
+2025-06,Sud-Est,Jacmel,Riz importé,marmite,797.0
+2025-06,Sud-Est,Jacmel,Riz local,marmite,1018.0
+2025-06,Sud-Est,Jacmel,Maïs moulu,marmite,532.0
+2025-06,Sud-Est,Jacmel,Farine de blé,marmite,630.0
+2025-06,Sud-Est,Jacmel,Haricot noir,marmite,1155.0
+2025-06,Sud-Est,Jacmel,Huile végétale,gallon,2264.0
+2025-06,Sud-Est,Jacmel,Sucre,marmite,713.0
+2025-06,Sud-Est,Jacmel,Spaghetti,paquet,117.0
+2025-06,artibonite,Saint-Marc,Spaghetti,paquet,107.0
+2025-06,nord-ouest,Port-de-Paix,Riz importé,marmite,949.0
+2025-07,Artibonite,Gonaïves,Riz importé,marmite,799.0
+2025-07,Artibonite,Gonaïves,Riz local,marmite,956.0
+2025-07,Artibonite,Gonaïves,Maïs moulu,marmite,487.0
+2025-07,Artibonite,Gonaïves,Farine de blé,marmite,635.0
+2025-07,Artibonite,Gonaïves,Haricot noir,marmite,1129.0
+2025-07,Artibonite,Gonaïves,Huile végétale,gallon,2248.0
+2025-07,Artibonite,Gonaïves,Sucre,marmite,745.0
+2025-07,Artibonite,Gonaïves,Spaghetti,paquet,112.0
+2025-07,Artibonite,Saint-Marc,Riz importé,marmite,784.0
+2025-07,Artibonite,Saint-Marc,Riz local,marmite,931.0
+2025-07,Artibonite,Saint-Marc,Maïs moulu,marmite,516.0
+2025-07,Artibonite,Saint-Marc,Farine de blé,marmite,582 HTG
+2025-07,Artibonite,Saint-Marc,Haricot noir,marmite,1108.0
+2025-07,Artibonite,Saint-Marc,Huile végétale,gallon,2148.0
+2025-07,Artibonite,Saint-Marc,Sucre,marmite,679.0
+2025-07,Artibonite,Saint-Marc,Spaghetti,paquet,109 HTG
+2025-07,Centre,Hinche,Riz importé,marmite,830.0
+2025-07,Centre,Hinche,Riz local,marmite,980.0
+2025-07,Centre,Hinche,Maïs moulu,marmite,505.0
+2025-07,Centre,Hinche,Farine de blé,marmite,628.0
+2025-07,Centre,Hinche,Haricot noir,marmite,1101.0
+2025-07,Centre,Hinche,Huile végétale,gallon,2125.0
+2025-07,Centre,Hinche,Spaghetti,paquet,113.0
+2025-07,Grand'Anse,Jérémie,Riz importé,marmite,1008.0
+2025-07,Grand'Anse,Jérémie,Riz local,marmite,1094.0
+2025-07,Grand'Anse,Jérémie,Maïs moulu,marmite,582.0
+2025-07,Grand'Anse,Jérémie,Farine de blé,marmite,751.0
+2025-07,Grand'Anse,Jérémie,Haricot noir,marmite,1306.0
+2025-07,Grand'Anse,Jérémie,Huile végétale,gallon,2581.0
+2025-07,Grand'Anse,Jérémie,Sucre,marmite,788.0
+2025-07,Grand'Anse,Jérémie,Spaghetti,paquet,
+2025-07,Nippes,Miragoâne,Riz importé,marmite,843.0
+2025-07,Nippes,Miragoâne,Riz local,marmite,985.0
+2025-07,Nippes,Miragoâne,Maïs moulu,marmite,518.0
+2025-07,Nippes,Miragoâne,Haricot noir,marmite,1277.0
+2025-07,Nippes,Miragoâne,Huile végétale,gallon,2260.0
+2025-07,Nippes,Miragoâne,Sucre,marmite,707.0
+2025-07,Nippes,Miragoâne,Spaghetti,paquet,121.0
+2025-07,Nord,Cap-Haïtien,Riz importé,marmite,845.0
+2025-07,Nord,Cap-Haïtien,Riz local,marmite,998.0
+2025-07,Nord,Cap-Haïtien,Maïs moulu,marmite,481.0
+2025-07,Nord,Cap-Haïtien,Farine de blé,marmite,673.0
+2025-07,Nord,Cap-Haïtien,Haricot noir,marmite,1271.0
+2025-07,Nord,Cap-Haïtien,Huile végétale,gallon,2242.0
+2025-07,Nord,Cap-Haïtien,Sucre,marmite,760.0
+2025-07,Nord,Cap-Haïtien,Spaghetti,paquet,116.0
+2025-07,Nord-Est,Fort-Liberté,Riz importé,marmite,846.0
+2025-07,Nord-Est,Fort-Liberté,Riz local,marmite,1020.0
+2025-07,Nord-Est,Fort-Liberté,Maïs moulu,marmite,545.0
+2025-07,Nord-Est,Fort-Liberté,Farine de blé,marmite,646.0
+2025-07,Nord-Est,Fort-Liberté,Haricot noir,marmite,1171.0
+2025-07,Nord-Est,Fort-Liberté,Huile végétale,gallon,
+2025-07,Nord-Est,Fort-Liberté,Sucre,marmite,762.0
+2025-07,Nord-Est,Fort-Liberté,Spaghetti,paquet,118.0
+2025-07,Nord-Ouest,Port-de-Paix,Riz importé,marmite,973.0
+2025-07,Nord-Ouest,Port-de-Paix,Riz local,marmite,1122.0
+2025-07,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,525.0
+2025-07,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,706.0
+2025-07,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,1272.0
+2025-07,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,
+2025-07,Nord-Ouest,Port-de-Paix,Sucre,marmite,813.0
+2025-07,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,139.0
+2025-07,Ouest,Croix-des-Bossales,Riz importé,marmite,713.0
+2025-07,Ouest,Croix-des-Bossales,Riz local,marmite,
+2025-07,Ouest,Croix-des-Bossales,Maïs moulu,marmite,481.0
+2025-07,Ouest,Croix-des-Bossales,Farine de blé,marmite,629.0
+2025-07,Ouest,Croix-des-Bossales,Haricot noir,marmite,1097.0
+2025-07,Ouest,Croix-des-Bossales,Huile végétale,gallon,2020.0
+2025-07,Ouest,Croix-des-Bossales,Sucre,marmite,702.0
+2025-07,Ouest,Croix-des-Bossales,Spaghetti,paquet,"117,0"
+2025-07,Ouest,Pétion-Ville,Riz importé,marmite,772.0
+2025-07,Ouest,Pétion-Ville,Riz local,marmite,892.0
+2025-07,Ouest,Pétion-Ville,Maïs moulu,marmite,510.0
+2025-07,Ouest,Pétion-Ville,Farine de blé,marmite,669.0
+2025-07,Ouest,Pétion-Ville,Haricot noir,marmite,1092.0
+2025-07,Ouest,Pétion-Ville,Huile végétale,gallon,2277.0
+2025-07,Ouest,Pétion-Ville,Sucre,marmite,710.0
+2025-07,Ouest,Pétion-Ville,Spaghetti,paquet,107.0
+2025-07,Sud,Les Cayes,Riz importé,marmite,799.0
+2025-07,Sud,Les Cayes,Riz local,marmite,986.0
+2025-07,Sud,Les Cayes,Farine de blé,marmite,684.0
+2025-07,Sud,Les Cayes,Haricot noir,marmite,1239.0
+2025-07,Sud,Les Cayes,Huile végétale,gallon,2227.0
+2025-07,Sud,Les Cayes,Sucre,marmite,753.0
+2025-07,Sud,Les Cayes,Spaghetti,paquet,115.0
+2025-07,Sud Est,Jacmel,Riz importé,marmite,787.0
+2025-07,Sud-Est,Jacmel,Riz local,marmite,996.0
+2025-07,Sud-Est,Jacmel,Maïs moulu,marmite,539.0
+2025-07,Sud-Est,Jacmel,Farine de blé,marmite,653.0
+2025-07,Sud-Est,Jacmel,Haricot noir,marmite,1242.0
+2025-07,Sud-Est,Jacmel,Huile végétale,gallon,2339.0
+2025-07,Sud-Est,Jacmel,Sucre,marmite,738.0
+2025-07,Sud-Est,Jacmel,Spaghetti,paquet,120.0
+2025-07,centre,Hinche,Sucre,marmite,714.0
+2025-07,nippes,Miragoâne,Farine de blé,marmite,663.0
+2025-07,sud,Les Cayes,Maïs moulu,marmite,555.0
+2025-08,Artibonite,Gonaïves,Riz importé,marmite,799.0
+2025-08,Artibonite,Gonaïves,Riz local,marmite,962.0
+2025-08,Artibonite,Gonaïves,Maïs moulu,marmite,505.0
+2025-08,Artibonite,Gonaïves,Farine de blé,marmite,604.0
+2025-08,Artibonite,Gonaïves,Haricot noir,marmite,1123.0
+2025-08,Artibonite,Gonaïves,Huile végétale,gallon,2309.0
+2025-08,Artibonite,Gonaïves,Sucre,marmite,698.0
+2025-08,Artibonite,Gonaïves,Spaghetti,paquet,116.0
+2025-08,Artibonite,Saint-Marc,Riz importé,marmite,758.0
+2025-08,Artibonite,Saint-Marc,Riz local,marmite,948.0
+2025-08,Artibonite,Saint-Marc,Maïs moulu,marmite,512.0
+2025-08,Artibonite,Saint-Marc,Farine de blé,marmite,614.0
+2025-08,Artibonite,Saint-Marc,Haricot noir,marmite,1084.0
+2025-08,Artibonite,Saint-Marc,Huile végétale,gallon,2095.0
+2025-08,Artibonite,Saint-Marc,Sucre,marmite,685.0
+2025-08,Artibonite,Saint-Marc,Spaghetti,paquet,118.0
+2025-08,Centre,Hinche,Riz importé,marmite,857.0
+2025-08,Centre,Hinche,Riz local,marmite,970.0
+2025-08,Centre,Hinche,Maïs moulu,marmite,510.0
+2025-08,Centre,Hinche,Farine de blé,marmite,639.0
+2025-08,Centre,Hinche,Haricot noir,marmite,1176.0
+2025-08,Centre,Hinche,Huile végétale,gallon,2165.0
+2025-08,Centre,Hinche,Sucre,marmite,694.0
+2025-08,Centre,Hinche,Spaghetti,paquet,127.0
+2025-08,Grand'Anse,Jérémie,Riz importé,marmite,942.0
+2025-08,Grand'Anse,Jérémie,Riz local,marmite,
+2025-08,Grand'Anse,Jérémie,Maïs moulu,marmite,"565,0"
+2025-08,Grand'Anse,Jérémie,Farine de blé,marmite,782.0
+2025-08,Grand'Anse,Jérémie,Haricot noir,marmite,1368.0
+2025-08,Grand'Anse,Jérémie,Huile végétale,gallon,2777.0
+2025-08,Grand'Anse,Jérémie,Sucre,marmite,878.0
+2025-08,Grand'Anse,Jérémie,Spaghetti,paquet,145.0
+2025-08,Nippes,Miragoâne,Riz importé,marmite,831.0
+2025-08,Nippes,Miragoâne,Riz local,marmite,1080.0
+2025-08,Nippes,Miragoâne,Farine de blé,marmite,688.0
+2025-08,Nippes,Miragoâne,Haricot noir,marmite,1252.0
+2025-08,Nippes,Miragoâne,Huile végétale,gallon,
+2025-08,Nippes,Miragoâne,Sucre,marmite,719.0
+2025-08,Nippes,Miragoâne,Spaghetti,paquet,120.0
+2025-08,Nippes,Miragoâne,Sucre,marmite,719.0
+2025-08,Nord,Cap-Haïtien,Riz importé,marmite,839.0
+2025-08,Nord,Cap-Haïtien,Riz local,marmite,"987,0"
+2025-08,Nord,Cap-Haïtien,Maïs moulu,marmite,523.0
+2025-08,Nord,Cap-Haïtien,Farine de blé,marmite,651.0
+2025-08,Nord,Cap-Haïtien,Haricot noir,marmite,1134.0
+2025-08,Nord,Cap-Haïtien,Huile végétale,gallon,2295.0
+2025-08,Nord,Cap-Haïtien,Sucre,marmite,720.0
+2025-08,Nord,Cap-Haïtien,Spaghetti,paquet,118.0
+2025-08,Nord-Est,Fort-Liberté,Riz importé,marmite,885.0
+2025-08,Nord-Est,Fort-Liberté,Riz local,marmite,1029.0
+2025-08,Nord-Est,Fort-Liberté,Maïs moulu,marmite,516.0
+2025-08,Nord-Est,Fort-Liberté,Farine de blé,marmite,672.0
+2025-08,Nord-Est,Fort-Liberté,Haricot noir,marmite,1305.0
+2025-08,Nord-Est,Fort-Liberté,Huile végétale,gallon,2260.0
+2025-08,Nord-Est,Fort-Liberté,Sucre,marmite,725.0
+2025-08,Nord-Est,Fort-Liberté,Spaghetti,paquet,123.0
+2025-08,Nord-Ouest,Port-de-Paix,Riz importé,marmite,930.0
+2025-08,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,574.0
+2025-08,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,737.0
+2025-08,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,1256.0
+2025-08,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,2552 HTG
+2025-08,Nord-Ouest,Port-de-Paix,Sucre,marmite,856.0
+2025-08,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,138.0
+2025-08,OUEST,Croix-des-Bossales,Farine de blé,marmite,593.0
+2025-08,Ouest,Croix-des-Bossales,Riz importé,marmite,804.0
+2025-08,Ouest,Croix-des-Bossales,Riz local,marmite,970.0
+2025-08,Ouest,Croix-des-Bossales,Maïs moulu,marmite,529.0
+2025-08,Ouest,Croix-des-Bossales,Haricot noir,marmite,1135.0
+2025-08,Ouest,Croix-des-Bossales,Huile végétale,gallon,2230.0
+2025-08,Ouest,Croix-des-Bossales,Sucre,marmite,686.0
+2025-08,Ouest,Croix-des-Bossales,Spaghetti,paquet,117.0
+2025-08,Ouest,Croix-des-Bossales,Haricot noir,marmite,1135.0
+2025-08,Ouest,Croix-des-Bossales,Sucre,marmite,686.0
+2025-08,Ouest,Pétion-Ville,Riz importé,marmite,800.0
+2025-08,Ouest,Pétion-Ville,Riz local,marmite,976.0
+2025-08,Ouest,Pétion-Ville,Maïs moulu,marmite,550.0
+2025-08,Ouest,Pétion-Ville,Farine de blé,marmite,609.0
+2025-08,Ouest,Pétion-Ville,Haricot noir,marmite,1158.0
+2025-08,Ouest,Pétion-Ville,Huile végétale,gallon,2268.0
+2025-08,Ouest,Pétion-Ville,Sucre,marmite,689.0
+2025-08,Ouest,Pétion-Ville,Spaghetti,paquet,116.0
+2025-08,Sud,Les Cayes,Riz importé,marmite,806.0
+2025-08,Sud,Les Cayes,Riz local,marmite,1038.0
+2025-08,Sud,Les Cayes,Maïs moulu,marmite,520.0
+2025-08,Sud,Les Cayes,Farine de blé,marmite,638.0
+2025-08,Sud,Les Cayes,Haricot noir,marmite,1295.0
+2025-08,Sud,Les Cayes,Huile végétale,gallon,2290.0
+2025-08,Sud,Les Cayes,Sucre,marmite,701.0
+2025-08,Sud,Les Cayes,Spaghetti,paquet,125.0
+2025-08,Sud-Est,Jacmel,Riz importé,marmite,873.0
+2025-08,Sud-Est,Jacmel,riz local ,marmite,
+2025-08,Sud-Est,Jacmel,Maïs moulu,marmite,557.0
+2025-08,Sud-Est,Jacmel,Farine de blé,marmite,
+2025-08,Sud-Est,Jacmel,Haricot noir,marmite,
+2025-08,Sud-Est,Jacmel,Huile végétale,gallon,2379.0
+2025-08,Sud-Est,Jacmel,Sucre,marmite,752.0
+2025-08,Sud-Est,Jacmel,Spaghetti,paquet,122.0
+2025-08,nippes,Miragoâne,Maïs moulu,marmite,540.0
+2025-08,nord-ouest,Port-de-Paix,Riz local,marmite,1063.0
+2025-09,Artibonite,Gonaïves,Riz importé,marmite,743.0
+2025-09,Artibonite,Gonaïves,Riz local,marmite,979.0
+2025-09,Artibonite,Gonaïves,Maïs moulu,marmite,505.0
+2025-09,Artibonite,Gonaïves,Farine de blé,marmite,634.0
+2025-09,Artibonite,Gonaïves,Haricot noir,marmite,1170.0
+2025-09,Artibonite,Gonaïves,Huile végétale,gallon,2072.0
+2025-09,Artibonite,Gonaïves,Sucre,marmite,629.0
+2025-09,Artibonite,Gonaïves,Spaghetti,paquet,114.0
+2025-09,Artibonite,Saint-Marc,Riz importé,marmite,821.0
+2025-09,Artibonite,Saint-Marc,Riz local,marmite,931.0
+2025-09,Artibonite,Saint-Marc,Maïs moulu,marmite,480.0
+2025-09,Artibonite,Saint-Marc,Farine de blé,marmite,617.0
+2025-09,Artibonite,Saint-Marc,Haricot noir,marmite,1180.0
+2025-09,Artibonite,Saint-Marc,Huile végétale,gallon,2225.0
+2025-09,Artibonite,Saint-Marc,Sucre,marmite,660.0
+2025-09,Artibonite,Saint-Marc,Spaghetti,paquet,110.0
+2025-09,Centre,Hinche,Riz importé,marmite,823.0
+2025-09,Centre,Hinche,Riz local,marmite,993.0
+2025-09,Centre,Hinche,Maïs moulu,marmite,504.0
+2025-09,Centre,Hinche,Farine de blé,marmite,643.0
+2025-09,Centre,Hinche,Haricot noir,marmite,1183.0
+2025-09,Centre,Hinche,Huile végétale,gallon,2362.0
+2025-09,Centre,Hinche,Sucre,marmite,702.0
+2025-09,Centre,Hinche,Spaghetti,paquet,121.0
+2025-09,Grand'Anse,Jérémie,Riz importé,marmite,955.0
+2025-09,Grand'Anse,Jérémie,Riz local,marmite,1133.0
+2025-09,Grand'Anse,Jérémie,Maïs moulu,marmite,"606,0"
+2025-09,Grand'Anse,Jérémie,Farine de blé,marmite,711.0
+2025-09,Grand'Anse,Jérémie,Haricot noir,marmite,1348.0
+2025-09,Grand'Anse,Jérémie,Huile végétale,gallon,2600.0
+2025-09,Grand'Anse,Jérémie,Sucre,marmite,885.0
+2025-09,Grand'Anse,Jérémie,Spaghetti,paquet,145.0
+2025-09,Nippes,Miragoâne,Riz importé,marmite,871.0
+2025-09,Nippes,Miragoâne,Riz local,marmite,1038.0
+2025-09,Nippes,Miragoâne,Maïs moulu,marmite,536.0
+2025-09,Nippes,Miragoâne,Farine de blé,marmite,664.0
+2025-09,Nippes,Miragoâne,Haricot noir,marmite,1286.0
+2025-09,Nippes,Miragoâne,Huile végétale,gallon,2433.0
+2025-09,Nippes,Miragoâne,Sucre,marmite,719.0
+2025-09,Nippes,Miragoâne,Spaghetti,paquet,118.0
+2025-09,Nord,Cap-Haïtien,Riz importé,marmite,810.0
+2025-09,Nord,Cap-Haïtien,Riz local,marmite,1037.0
+2025-09,Nord,Cap-Haïtien,Maïs moulu,marmite,538.0
+2025-09,Nord,Cap-Haïtien,Farine de blé,marmite,631.0
+2025-09,Nord,Cap-Haïtien,Haricot noir,marmite,1173.0
+2025-09,Nord,Cap-Haïtien,Huile végétale,gallon,2327.0
+2025-09,Nord,Cap-Haïtien,Sucre,marmite,725.0
+2025-09,Nord,Cap-Haïtien,Spaghetti,paquet,116.0
+2025-09,Nord Est,Fort-Liberté,Spaghetti,paquet,121.0
+2025-09,Nord-Est,Fort-Liberté,Riz importé,marmite,840.0
+2025-09,Nord-Est,Fort-Liberté,Riz local,marmite,1032.0
+2025-09,Nord-Est,Fort-Liberté,Maïs moulu,marmite,540.0
+2025-09,Nord-Est,Fort-Liberté,Farine de blé,marmite,674.0
+2025-09,Nord-Est,Fort-Liberté,Haricot noir,marmite,1236.0
+2025-09,Nord-Est,Fort-Liberté,Huile végétale,gallon,2470.0
+2025-09,Nord-Est,Fort-Liberté,Sucre,marmite,712.0
+2025-09,Nord-Ouest,Port-de-Paix,Riz importé,marmite,993.0
+2025-09,Nord-Ouest,Port-de-Paix,Riz local,marmite,"1111,0"
+2025-09,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,575.0
+2025-09,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,745.0
+2025-09,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,1310.0
+2025-09,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,2701.0
+2025-09,Nord-Ouest,Port-de-Paix,Sucre,marmite,796.0
+2025-09,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,136.0
+2025-09,Ouest,Croix-des-Bossales,Riz importé,marmite,746.0
+2025-09,Ouest,Croix-des-Bossales,Riz local,marmite,960.0
+2025-09,Ouest,Croix-des-Bossales,Maïs moulu,marmite,499.0
+2025-09,Ouest,Croix-des-Bossales,Farine de blé,marmite,640.0
+2025-09,Ouest,Croix-des-Bossales,Haricot noir,marmite,1124.0
+2025-09,Ouest,Croix-des-Bossales,Huile végétale,gallon,2375.0
+2025-09,Ouest,Croix-des-Bossales,Sucre,marmite,739.0
+2025-09,Ouest,Croix-des-Bossales,Spaghetti,paquet,111.0
+2025-09,Ouest,Pétion-Ville,Riz importé,marmite,
+2025-09,Ouest,Pétion-Ville,Riz local,marmite,931.0
+2025-09,Ouest,Pétion-Ville,Maïs moulu,marmite,514.0
+2025-09,Ouest,Pétion-Ville,Farine de blé,marmite,605.0
+2025-09,Ouest,Pétion-Ville,Haricot noir,marmite,1160.0
+2025-09,Ouest,Pétion-Ville,Huile végétale,gallon,2279.0
+2025-09,Ouest,Pétion-Ville,Sucre,marmite,719.0
+2025-09,Ouest,Pétion-Ville,Spaghetti,paquet,
+2025-09,Sud,Les Cayes,Riz importé,marmite,821.0
+2025-09,Sud,Les Cayes,Riz local,marmite,1048.0
+2025-09,Sud,Les Cayes,Maïs moulu,marmite,523.0
+2025-09,Sud,Les Cayes,Farine de blé,marmite,655.0
+2025-09,Sud,Les Cayes,Haricot noir,marmite,1186.0
+2025-09,Sud,Les Cayes,Huile végétale,gallon,2375 HTG
+2025-09,Sud,Les Cayes,Sucre,marmite,725.0
+2025-09,Sud-Est,Jacmel,Riz importé,marmite,807.0
+2025-09,Sud-Est,Jacmel,Riz local,marmite,970.0
+2025-09,Sud-Est,Jacmel,Maïs moulu,marmite,535.0
+2025-09,Sud-Est,Jacmel,Farine de blé,marmite,675.0
+2025-09,Sud-Est,Jacmel,Haricot noir,marmite,1203.0
+2025-09,Sud-Est,Jacmel,Huile végétale,gallon,2394.0
+2025-09,Sud-Est,Jacmel,Sucre,marmite,761.0
+2025-09,Sud-Est,Jacmel,Spaghetti,paquet,122.0
+2025-09,sud,Les Cayes,Spaghetti,paquet,121.0
+2025-10,Artibonite,Gonaïves,Riz importé,marmite,777.0
+2025-10,Artibonite,Gonaïves,Riz local,marmite,1022.0
+2025-10,Artibonite,Gonaïves,Maïs moulu,marmite,492.0
+2025-10,Artibonite,Gonaïves,Farine de blé,marmite,619.0
+2025-10,Artibonite,Gonaïves,Haricot noir,marmite,1173.0
+2025-10,Artibonite,Gonaïves,Huile végétale,gallon,2221.0
+2025-10,Artibonite,Gonaïves,Sucre,marmite,687.0
+2025-10,Artibonite,Gonaïves,Spaghetti,paquet,112.0
+2025-10,Artibonite,Saint-Marc,Riz importé,marmite,823.0
+2025-10,Artibonite,Saint-Marc,Riz local,marmite,929.0
+2025-10,Artibonite,Saint-Marc,Maïs moulu,marmite,472.0
+2025-10,Artibonite,Saint-Marc,Farine de blé,marmite,640.0
+2025-10,Artibonite,Saint-Marc,Haricot noir,marmite,1192.0
+2025-10,Artibonite,Saint-Marc,Huile végétale,gallon,2105.0
+2025-10,Artibonite,Saint-Marc,Sucre,marmite,712.0
+2025-10,Artibonite,Saint-Marc,Spaghetti,paquet,114.0
+2025-10,Artibonite,Saint-Marc,Riz importé,marmite,823.0
+2025-10,Centre,Hinche,Riz importé,marmite,805.0
+2025-10,Centre,Hinche,Riz local,marmite,969.0
+2025-10,Centre,Hinche,Maïs moulu,marmite,495.0
+2025-10,Centre,Hinche,Farine de blé,marmite,638.0
+2025-10,Centre,Hinche,Haricot noir,marmite,1253.0
+2025-10,Centre,Hinche,Huile végétale,gallon,2393.0
+2025-10,Centre,Hinche,Sucre,marmite,742.0
+2025-10,Centre,Hinche,Spaghetti,paquet,116.0
+2025-10,Grand'Anse,Jérémie,Riz importé,marmite,1003.0
+2025-10,Grand'Anse,Jérémie,Riz local,marmite,1181 HTG
+2025-10,Grand'Anse,Jérémie,Maïs moulu,marmite,540.0
+2025-10,Grand'Anse,Jérémie,Farine de blé,marmite,736.0
+2025-10,Grand'Anse,Jérémie,Haricot noir,marmite,1362.0
+2025-10,Grand'Anse,Jérémie,Huile végétale,gallon,2758.0
+2025-10,Grand'Anse,Jérémie,Sucre,marmite,836.0
+2025-10,Grand'Anse,Jérémie,Spaghetti,paquet,141.0
+2025-10,Nippes,Miragoâne,Riz importé,marmite,857.0
+2025-10,Nippes,Miragoâne,Riz local,marmite,1047.0
+2025-10,Nippes,Miragoâne,Maïs moulu,marmite,573.0
+2025-10,Nippes,Miragoâne,Farine de blé,marmite,662.0
+2025-10,Nippes,Miragoâne,Haricot noir,marmite,1290.0
+2025-10,Nippes,Miragoâne,Huile végétale,gallon,2382.0
+2025-10,Nippes,Miragoâne,Sucre,marmite,745.0
+2025-10,Nippes,Miragoâne,Spaghetti,paquet,114.0
+2025-10,Nord,Cap-Haïtien,Riz importé,marmite,826.0
+2025-10,Nord,Cap-Haïtien,Riz local,marmite,1025.0
+2025-10,Nord,Cap-Haïtien,Maïs moulu,marmite,561.0
+2025-10,Nord,Cap-Haïtien,Farine de blé,marmite,671.0
+2025-10,Nord,Cap-Haïtien,Haricot noir,marmite,1238.0
+2025-10,Nord,Cap-Haïtien,Huile végétale,gallon,2357.0
+2025-10,Nord,Cap-Haïtien,Sucre,marmite,719.0
+2025-10,Nord,Cap-Haïtien,Spaghetti,paquet,118.0
+2025-10,Nord Est,Fort-Liberté,Riz local,marmite,1095.0
+2025-10,Nord-Est,Fort-Liberté,Riz importé,marmite,884.0
+2025-10,Nord-Est,Fort-Liberté,Maïs moulu,marmite,548.0
+2025-10,Nord-Est,Fort-Liberté,Farine de blé,marmite,677.0
+2025-10,Nord-Est,Fort-Liberté,Haricot noir,marmite,1272.0
+2025-10,Nord-Est,Fort-Liberté,Huile végétale,gallon,2383.0
+2025-10,Nord-Est,Fort-Liberté,Sucre,marmite,808.0
+2025-10,Nord-Est,Fort-Liberté,Spaghetti,paquet,122.0
+2025-10,Nord-Ouest,Port-de-Paix,Riz importé,marmite,
+2025-10,Nord-Ouest,Port-de-Paix,Riz local,marmite,1084.0
+2025-10,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,575.0
+2025-10,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,813.0
+2025-10,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,1286.0
+2025-10,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,
+2025-10,Nord-Ouest,Port-de-Paix,Sucre,marmite,904.0
+2025-10,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,137.0
+2025-10,Ouest,Croix-des-Bossales,Riz importé,marmite,793.0
+2025-10,Ouest,Croix-des-Bossales,Riz local,marmite,986 HTG
+2025-10,Ouest,Croix-des-Bossales,Maïs moulu,marmite,527.0
+2025-10,Ouest,Croix-des-Bossales,Farine de blé,marmite,632.0
+2025-10,Ouest,Croix-des-Bossales,Huile végétale,gallon,2391.0
+2025-10,Ouest,Croix-des-Bossales,Sucre,marmite,690.0
+2025-10,Ouest,Croix-des-Bossales,Spaghetti,paquet,117.0
+2025-10,Ouest,Croix-des-Bossales,Maïs moulu,marmite,527.0
+2025-10,Ouest,Croix-des-Bossales,Farine de blé,marmite,632.0
+2025-10,Ouest,Pétion-Ville,Riz importé,marmite,834.0
+2025-10,Ouest,Pétion-Ville,Riz local,marmite,999.0
+2025-10,Ouest,Pétion-Ville,Maïs moulu,marmite,517.0
+2025-10,Ouest,Pétion-Ville,Farine de blé,marmite,625.0
+2025-10,Ouest,Pétion-Ville,haricot noir ,marmite,1154.0
+2025-10,Ouest,Pétion-Ville,Huile végétale,gallon,2261.0
+2025-10,Ouest,Pétion-Ville,Sucre,marmite,737.0
+2025-10,Ouest,Pétion-Ville,Spaghetti,paquet,112.0
+2025-10,Sud,Les Cayes,Riz importé,marmite,834.0
+2025-10,Sud,Les Cayes,Riz local,marmite,1000.0
+2025-10,Sud,Les Cayes,Maïs moulu,marmite,542.0
+2025-10,Sud,Les Cayes,Farine de blé,marmite,688.0
+2025-10,Sud,Les Cayes,Haricot noir,marmite,1221.0
+2025-10,Sud,Les Cayes,Huile végétale,gallon,2271.0
+2025-10,Sud,Les Cayes,Sucre,marmite,721.0
+2025-10,Sud,Les Cayes,Spaghetti,paquet,128.0
+2025-10,Sud Est,Jacmel,Riz local,marmite,983.0
+2025-10,Sud-Est,Jacmel,Riz importé,marmite,841.0
+2025-10,Sud-Est,Jacmel,Maïs moulu,marmite,552.0
+2025-10,Sud-Est,Jacmel,Farine de blé,marmite,
+2025-10,Sud-Est,Jacmel,Haricot noir,marmite,1249.0
+2025-10,Sud-Est,Jacmel,Huile végétale,gallon,2453.0
+2025-10,Sud-Est,Jacmel,Sucre,marmite,739.0
+2025-10,Sud-Est,Jacmel,Spaghetti,paquet,128.0
+2025-10,Sud-Est,Jacmel,Maïs moulu,marmite,552.0
+2025-10,ouest,Croix-des-Bossales,Haricot noir,marmite,1231.0
+2025-11,Artibonite,Gonaïves,Riz importé,marmite,725.0
+2025-11,Artibonite,Gonaïves,Maïs moulu,marmite,517.0
+2025-11,Artibonite,Gonaïves,Farine de blé,marmite,657.0
+2025-11,Artibonite,Gonaïves,Haricot noir,marmite,1182.0
+2025-11,Artibonite,Gonaïves,Huile végétale,gallon,2203.0
+2025-11,Artibonite,Gonaïves,sucre ,marmite,654.0
+2025-11,Artibonite,Gonaïves,Spaghetti,paquet,114.0
+2025-11,Artibonite,Saint-Marc,Riz importé,marmite,732.0
+2025-11,Artibonite,Saint-Marc,Riz local,marmite,937.0
+2025-11,Artibonite,Saint-Marc,Maïs moulu,marmite,495.0
+2025-11,Artibonite,Saint-Marc,Farine de blé,marmite,614.0
+2025-11,Artibonite,Saint-Marc,haricot noir ,marmite,1184.0
+2025-11,Artibonite,Saint-Marc,Huile végétale,gallon,2169.0
+2025-11,Artibonite,Saint-Marc,Sucre,marmite,664.0
+2025-11,Artibonite,Saint-Marc,Spaghetti,paquet,111.0
+2025-11,Artibonite ,Gonaïves,Riz local,marmite,966.0
+2025-11,Centre,Hinche,Riz importé,marmite,867.0
+2025-11,Centre,Hinche,Riz local,marmite,1000.0
+2025-11,Centre,Hinche,Maïs moulu,marmite,511.0
+2025-11,Centre,Hinche,Farine de blé,marmite,672.0
+2025-11,Centre,Hinche,Haricot noir,marmite,1163.0
+2025-11,Centre,Hinche,Huile végétale,gallon,2234.0
+2025-11,Centre,Hinche,Sucre,marmite,723.0
+2025-11,Centre,Hinche,Spaghetti,paquet,114.0
+2025-11,Grand'Anse,Jérémie,Riz importé,marmite,960.0
+2025-11,Grand'Anse,Jérémie,Riz local,marmite,1186.0
+2025-11,Grand'Anse,Jérémie,Maïs moulu,marmite,578.0
+2025-11,Grand'Anse,Jérémie,Farine de blé,marmite,782.0
+2025-11,Grand'Anse,Jérémie,Haricot noir,marmite,1334.0
+2025-11,Grand'Anse,Jérémie,Huile végétale,gallon,2884.0
+2025-11,Grand'Anse,Jérémie,Sucre,marmite,838.0
+2025-11,Grand'Anse,Jérémie,Spaghetti,paquet,145.0
+2025-11,Grand'Anse,Jérémie,Maïs moulu,marmite,578.0
+2025-11,Nippes,Miragoâne,Riz importé,marmite,944.0
+2025-11,Nippes,Miragoâne,Riz local,marmite,1127.0
+2025-11,Nippes,Miragoâne,Maïs moulu,marmite,503.0
+2025-11,Nippes,Miragoâne,Farine de blé,marmite,680.0
+2025-11,Nippes,Miragoâne,Haricot noir,marmite,1280.0
+2025-11,Nippes,Miragoâne,Huile végétale,gallon,2424.0
+2025-11,Nippes,Miragoâne,Sucre,marmite,797.0
+2025-11,Nippes,Miragoâne,Spaghetti,paquet,111.0
+2025-11,Nippes,Miragoâne,Riz local,marmite,1127.0
+2025-11,Nord,Cap-Haïtien,Riz importé,marmite,812.0
+2025-11,Nord,Cap-Haïtien,Riz local,marmite,1066.0
+2025-11,Nord,Cap-Haïtien,Maïs moulu,marmite,502.0
+2025-11,Nord,Cap-Haïtien,Farine de blé,marmite,646.0
+2025-11,Nord,Cap-Haïtien,Haricot noir,marmite,1258.0
+2025-11,Nord,Cap-Haïtien,Huile végétale,gallon,2256.0
+2025-11,Nord,Cap-Haïtien,Sucre,marmite,748.0
+2025-11,Nord,Cap-Haïtien,Spaghetti,paquet,120.0
+2025-11,Nord,Cap-Haïtien,Spaghetti,paquet,120.0
+2025-11,Nord Est,Fort-Liberté,Riz importé,marmite,833.0
+2025-11,Nord-Est,Fort-Liberté,Riz local,marmite,1052.0
+2025-11,Nord-Est,Fort-Liberté,Maïs moulu,marmite,554.0
+2025-11,Nord-Est,Fort-Liberté,Farine de blé,marmite,645.0
+2025-11,Nord-Est,Fort-Liberté,Haricot noir,marmite,1238.0
+2025-11,Nord-Est,Fort-Liberté,Huile végétale,gallon,2395.0
+2025-11,Nord-Est,Fort-Liberté,Sucre,marmite,773.0
+2025-11,Nord-Est,Fort-Liberté,Spaghetti,paquet,123.0
+2025-11,Nord-Ouest,Port-de-Paix,Riz importé,marmite,1011.0
+2025-11,Nord-Ouest,Port-de-Paix,Riz local,marmite,1134.0
+2025-11,Nord-Ouest,Port-de-Paix,Maïs moulu,marmite,522.0
+2025-11,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,702.0
+2025-11,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,1273.0
+2025-11,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,
+2025-11,Nord-Ouest,Port-de-Paix,Sucre,marmite,872.0
+2025-11,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,146.0
+2025-11,OUEST,Croix-des-Bossales,Haricot noir,marmite,1200.0
+2025-11,Ouest,Croix-des-Bossales,Riz importé,marmite,811.0
+2025-11,Ouest,Croix-des-Bossales,Riz local,marmite,1059.0
+2025-11,Ouest,Croix-des-Bossales,Maïs moulu,marmite,503.0
+2025-11,Ouest,Croix-des-Bossales,Farine de blé,marmite,575.0
+2025-11,Ouest,Croix-des-Bossales,Huile végétale,gallon,2171.0
+2025-11,Ouest,Croix-des-Bossales,Sucre,marmite,674.0
+2025-11,Ouest,Croix-des-Bossales,Spaghetti,paquet,115.0
+2025-11,Ouest,Pétion-Ville,Riz importé,marmite,774.0
+2025-11,Ouest,Pétion-Ville,Riz local,marmite,1036.0
+2025-11,Ouest,Pétion-Ville,Maïs moulu,marmite,
+2025-11,Ouest,Pétion-Ville,Farine de blé,marmite,654.0
+2025-11,Ouest,Pétion-Ville,Haricot noir,marmite,1160 HTG
+2025-11,Ouest,Pétion-Ville,Huile végétale,gallon,2255.0
+2025-11,Ouest,Pétion-Ville,Sucre,marmite,704.0
+2025-11,Ouest,Pétion-Ville,Spaghetti,paquet,118.0
+2025-11,Sud,Les Cayes,Riz importé,marmite,832.0
+2025-11,Sud,Les Cayes,Riz local,marmite,973.0
+2025-11,Sud,Les Cayes,Maïs moulu,marmite,535.0
+2025-11,Sud,Les Cayes,Farine de blé,marmite,652.0
+2025-11,Sud,Les Cayes,Haricot noir,marmite,1243.0
+2025-11,Sud,Les Cayes,Huile végétale,gallon,2229.0
+2025-11,Sud,Les Cayes,Sucre,marmite,759.0
+2025-11,Sud,Les Cayes,Spaghetti,paquet,124.0
+2025-11,Sud Est,Jacmel,Farine de blé,marmite,644.0
+2025-11,Sud-Est,Jacmel,Riz importé,marmite,859.0
+2025-11,Sud-Est,Jacmel,Riz local,marmite,1008.0
+2025-11,Sud-Est,Jacmel,Maïs moulu,marmite,548.0
+2025-11,Sud-Est,Jacmel,Haricot noir,marmite,1207.0
+2025-11,Sud-Est,Jacmel,Huile végétale,gallon,2239.0
+2025-11,Sud-Est,Jacmel,Sucre,marmite,729.0
+2025-11,Sud-Est,Jacmel,spaghetti ,paquet,120.0
+2025-12,Artibonite,Gonaïves,Riz importé,marmite,784.0
+2025-12,Artibonite,Gonaïves,Riz local,marmite,973.0
+2025-12,Artibonite,Gonaïves,Maïs moulu,marmite,527.0
+2025-12,Artibonite,Gonaïves,Farine de blé,marmite,592.0
+2025-12,Artibonite,Gonaïves,Haricot noir,marmite,1140.0
+2025-12,Artibonite,Gonaïves,Huile végétale,gallon,2123.0
+2025-12,Artibonite,Gonaïves,Sucre,marmite,712.0
+2025-12,Artibonite,Gonaïves,Spaghetti,paquet,"126,0"
+2025-12,Artibonite,Saint-Marc,Riz importé,marmite,764.0
+2025-12,Artibonite,Saint-Marc,Riz local,marmite,1025.0
+2025-12,Artibonite,Saint-Marc,Maïs moulu,marmite,532.0
+2025-12,Artibonite,Saint-Marc,Farine de blé,marmite,583.0
+2025-12,Artibonite,Saint-Marc,Haricot noir,marmite,1113.0
+2025-12,Artibonite,Saint-Marc,Huile végétale,gallon,2226.0
+2025-12,Artibonite,Saint-Marc,Sucre,marmite,682.0
+2025-12,Artibonite,Saint-Marc,Spaghetti,paquet,116.0
+2025-12,Artibonite,Saint-Marc,Spaghetti,paquet,116.0
+2025-12,Centre,Hinche,Riz importé,marmite,836.0
+2025-12,Centre,Hinche,Riz local,marmite,1041.0
+2025-12,Centre,Hinche,Maïs moulu,marmite,523.0
+2025-12,Centre,Hinche,Farine de blé,marmite,645.0
+2025-12,Centre,Hinche,Haricot noir,marmite,1223.0
+2025-12,Centre,Hinche,huile végétale ,gallon,2356.0
+2025-12,Centre,Hinche,Sucre,marmite,725.0
+2025-12,Centre,Hinche,Spaghetti,paquet,122.0
+2025-12,Grand'Anse,Jérémie,Riz importé,marmite,1010.0
+2025-12,Grand'Anse,Jérémie,Riz local,marmite,1138 HTG
+2025-12,Grand'Anse,Jérémie,Maïs moulu,marmite,536.0
+2025-12,Grand'Anse,Jérémie,Farine de blé,marmite,796.0
+2025-12,Grand'Anse,Jérémie,Haricot noir,marmite,1342.0
+2025-12,Grand'Anse,Jérémie,Huile végétale,gallon,2784.0
+2025-12,Grand'Anse,Jérémie,Sucre,marmite,856.0
+2025-12,Grand'Anse,Jérémie,Spaghetti,paquet,150.0
+2025-12,Nippes,Miragoâne,Riz importé,marmite,866.0
+2025-12,Nippes,Miragoâne,Riz local,marmite,1128.0
+2025-12,Nippes,Miragoâne,Maïs moulu,marmite,556.0
+2025-12,Nippes,Miragoâne,farine de blé ,marmite,687.0
+2025-12,Nippes,Miragoâne,Huile végétale,gallon,2463.0
+2025-12,Nippes,Miragoâne,Sucre,marmite,796.0
+2025-12,Nippes,Miragoâne,Spaghetti,paquet,124.0
+2025-12,Nord,Cap-Haïtien,Riz importé,marmite,889.0
+2025-12,Nord,Cap-Haïtien,Riz local,marmite,1070.0
+2025-12,Nord,Cap-Haïtien,Maïs moulu,marmite,535.0
+2025-12,Nord,Cap-Haïtien,Farine de blé,marmite,682.0
+2025-12,Nord,Cap-Haïtien,Haricot noir,marmite,1255.0
+2025-12,Nord,Cap-Haïtien,Huile végétale,gallon,2260.0
+2025-12,Nord,Cap-Haïtien,Sucre,marmite,734.0
+2025-12,Nord,Cap-Haïtien,Spaghetti,paquet,124.0
+2025-12,Nord,Cap-Haïtien,Sucre,marmite,734.0
+2025-12,Nord Ouest,Port-de-Paix,Maïs moulu,marmite,570.0
+2025-12,Nord-Est,Fort-Liberté,Riz importé,marmite,872.0
+2025-12,Nord-Est,Fort-Liberté,Riz local,marmite,1064.0
+2025-12,Nord-Est,Fort-Liberté,Maïs moulu,marmite,523.0
+2025-12,Nord-Est,Fort-Liberté,farine de blé ,marmite,683.0
+2025-12,Nord-Est,Fort-Liberté,Haricot noir,marmite,1226.0
+2025-12,Nord-Est,Fort-Liberté,Huile végétale,gallon,2548.0
+2025-12,Nord-Est,Fort-Liberté,Sucre,marmite,778.0
+2025-12,Nord-Est,Fort-Liberté,Spaghetti,paquet,123.0
+2025-12,Nord-Ouest,Port-de-Paix,Riz importé,marmite,949.0
+2025-12,Nord-Ouest,Port-de-Paix,Riz local,marmite,1092.0
+2025-12,Nord-Ouest,Port-de-Paix,Farine de blé,marmite,783.0
+2025-12,Nord-Ouest,Port-de-Paix,Haricot noir,marmite,1309.0
+2025-12,Nord-Ouest,Port-de-Paix,Huile végétale,gallon,2764.0
+2025-12,Nord-Ouest,Port-de-Paix,Sucre,marmite,914.0
+2025-12,Nord-Ouest,Port-de-Paix,Spaghetti,paquet,139.0
+2025-12,Ouest,Croix-des-Bossales,Riz importé,marmite,792.0
+2025-12,Ouest,Croix-des-Bossales,Riz local,marmite,1068.0
+2025-12,Ouest,Croix-des-Bossales,Maïs moulu,marmite,545.0
+2025-12,Ouest,Croix-des-Bossales,Farine de blé,marmite,701.0
+2025-12,Ouest,Croix-des-Bossales,Haricot noir,marmite,1273.0
+2025-12,Ouest,Croix-des-Bossales,Huile végétale,gallon,2193.0
+2025-12,Ouest,Croix-des-Bossales,Sucre,marmite,755.0
+2025-12,Ouest,Croix-des-Bossales,Spaghetti,paquet,118.0
+2025-12,Ouest,Pétion-Ville,Riz importé,marmite,829.0
+2025-12,Ouest,Pétion-Ville,Riz local,marmite,1015.0
+2025-12,Ouest,Pétion-Ville,Maïs moulu,marmite,514.0
+2025-12,Ouest,Pétion-Ville,Farine de blé,marmite,638.0
+2025-12,Ouest,Pétion-Ville,Haricot noir,marmite,1236.0
+2025-12,Ouest,Pétion-Ville,Huile végétale,gallon,2252.0
+2025-12,Ouest,Pétion-Ville,Sucre,marmite,734.0
+2025-12,Ouest,Pétion-Ville,Spaghetti,paquet,121.0
+2025-12,Sud,Les Cayes,Riz importé,marmite,854.0
+2025-12,Sud,Les Cayes,Riz local,marmite,1066.0
+2025-12,Sud,Les Cayes,Maïs moulu,marmite,560.0
+2025-12,Sud,Les Cayes,Farine de blé,marmite,618.0
+2025-12,Sud,Les Cayes,Haricot noir,marmite,1317.0
+2025-12,Sud,Les Cayes,Huile végétale,gallon,2229.0
+2025-12,Sud,Les Cayes,Sucre,marmite,758.0
+2025-12,Sud,Les Cayes,Spaghetti,paquet,124.0
+2025-12,Sud-Est,Jacmel,Riz importé,marmite,904.0
+2025-12,Sud-Est,Jacmel,Riz local,marmite,1014.0
+2025-12,Sud-Est,Jacmel,Maïs moulu,marmite,561.0
+2025-12,Sud-Est,Jacmel,Farine de blé,marmite,677.0
+2025-12,Sud-Est,Jacmel,Haricot noir,marmite,"1356,0"
+2025-12,Sud-Est,Jacmel,Huile végétale,gallon,2367.0
+2025-12,Sud-Est,Jacmel,Sucre,marmite,742.0
+2025-12,Sud-Est,Jacmel,Spaghetti,paquet,129.0
+2025-12,nippes,Miragoâne,Haricot noir,marmite,1357.0

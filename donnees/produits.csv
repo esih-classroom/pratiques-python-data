@@ -1,0 +1,9 @@
+produit,categorie,unite,importe
+Riz importé,céréales,marmite,True
+Riz local,céréales,marmite,False
+Maïs moulu,céréales,marmite,False
+Farine de blé,céréales,marmite,True
+Haricot noir,légumineuses,marmite,False
+Huile végétale,huiles,gallon,True
+Sucre,sucre,marmite,True
+Spaghetti,céréales,paquet,True
